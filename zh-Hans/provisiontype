@@ -1,0 +1,200 @@
+﻿[
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Coverage Maximum (Expenses)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Expenses)",
+    "translation": "保险最大值（费用）"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Out-of-Pocket Maximum (Includes Deductible Spending)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-of-Pocket Maximum (Includes Deductible Spending)",
+    "translation": "现款支付的 最大值（包括免赔额支出）"
+  },
+  {
+    "comment": "7 Description",
+    "context": "7 Description",
+    "key": "Out-of-Pocket Maximum (Does Not Include Deductible Spending)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-of-Pocket Maximum (Does Not Include Deductible Spending)",
+    "translation": "现款支付的 最大值（不包括免赔额支出）"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Coverage Allowance (Pre-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Pre-Deductible)",
+    "translation": "保险费（免赔额前）"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Lifetime Maximum",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lifetime Maximum",
+    "translation": "寿命最大值"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Coverage Allowance (Post-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Post-Deductible)",
+    "translation": "保险费 （免赔额后）"
+  },
+  {
+    "comment": "8 Description",
+    "context": "8 Description",
+    "key": "Covers the first dollar... and that's it.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Covers the first dollar... and that's it.",
+    "translation": "包括第一个美元，即此。"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Coverage Allowance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance",
+    "translation": "承保投资水平"
+  },
+  {
+    "comment": "10 Description",
+    "context": "10 Description",
+    "key": "Maximum Coverage in a particular calendar year.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Coverage in a particular calendar year.",
+    "translation": "历年承保水平最大值"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Deductible",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible",
+    "translation": "免赔额"
+  },
+  {
+    "comment": "11 Description",
+    "context": "11 Description",
+    "key": "Lifetime maximum coverage provided by the product.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lifetime maximum coverage provided by the product.",
+    "translation": "终生可以提供的承保最大值"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Health Reimbursement Arrangement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Reimbursement Arrangement",
+    "translation": "医疗报销安排"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Coverage Maximum (Based on Medical Service Expenses)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Based on Medical Service Expenses)",
+    "translation": "保险最大值（基于医疗服务费用）"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Coverage Maximum (Based on Quantity of Usage)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Based on Quantity of Usage)",
+    "translation": "保险最大值（基于使用数量）"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Coverage Maximum (Quantity)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Quantity)",
+    "translation": "保险最大值（数量）"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "OOP Maximum (Deductible Applies)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "OOP Maximum (Deductible Applies)",
+    "translation": "OOP 最大值（免赔额适用）"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Deductible",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible",
+    "translation": "免赔额"
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Coverage Allowance (Post-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Post-Deductible)",
+    "translation": "保险费 （免赔额后）"
+  },
+  {
+    "comment": "9 Description",
+    "context": "9 Description",
+    "key": "First dollar coverage via a Health Reimbursement Arrangement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "First dollar coverage via a Health Reimbursement Arrangement",
+    "translation": "通过医疗报销安排的第一美元保险项目"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "OOP Maximum (Deductible Does Not Apply)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "OOP Maximum (Deductible Does Not Apply)",
+    "translation": "OOP 最大值（免赔额不适用）"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Coverage Allowance (Pre-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Pre-Deductible)",
+    "translation": "保险费（免赔额前）"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Calendar Year Maximum",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Calendar Year Maximum",
+    "translation": "历年最大值"
+  }
+]

@@ -1,0 +1,164 @@
+﻿[
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Mrs.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mrs.",
+    "translation": "夫人"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Mister",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mister",
+    "translation": "先生"
+  },
+  {
+    "comment": "10 Description",
+    "context": "10 Description",
+    "key": "Miss",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Miss",
+    "translation": "女士"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Misses",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Misses",
+    "translation": "夫人"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Doctor",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Doctor",
+    "translation": "博士"
+  },
+  {
+    "comment": "8 Description",
+    "context": "8 Description",
+    "key": "Reverend",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Reverend",
+    "translation": "牧師"
+  },
+  {
+    "comment": "9 Description",
+    "context": "9 Description",
+    "key": "Father",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Father",
+    "translation": "父親"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Col.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Col.",
+    "translation": "上校"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Father",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Father",
+    "translation": "父親"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Dr.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dr.",
+    "translation": "博士"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Ms.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Ms.",
+    "translation": "女士"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Mr.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mr.",
+    "translation": "先生"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Miss",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Miss",
+    "translation": "女士"
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Colonel",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Colonel",
+    "translation": "上校"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Miss",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Miss",
+    "translation": "女士"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Rev.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Rev.",
+    "translation": "牧師"
+  },
+  {
+    "comment": "7 Description",
+    "context": "7 Description",
+    "key": "Professor",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Professor",
+    "translation": "教授"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Prof.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Prof.",
+    "translation": "教授"
+  }
+]

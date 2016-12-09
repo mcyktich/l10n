@@ -1,0 +1,3584 @@
+﻿[
+  {
+    "comment": "306",
+    "context": "306",
+    "key": "Cancellation & Curtailment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancellation & Curtailment",
+    "translation": ""
+  },
+  {
+    "comment": "14",
+    "context": "14",
+    "key": "Coverage Maximum (Per Visit)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Per Visit)",
+    "translation": ""
+  },
+  {
+    "comment": "203",
+    "context": "203",
+    "key": "Musculoskeletal or hearing assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Musculoskeletal or hearing assessment",
+    "translation": ""
+  },
+  {
+    "comment": "411",
+    "context": "411",
+    "key": "Normal retirement age is",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Normal retirement age is",
+    "translation": ""
+  },
+  {
+    "comment": "310",
+    "context": "310",
+    "key": "Any value of vouchers",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Any value of vouchers",
+    "translation": ""
+  },
+  {
+    "comment": "298",
+    "context": "298",
+    "key": "Baggage & Personal Effects (including Golf Equipment) Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Baggage & Personal Effects (including Golf Equipment) Cover",
+    "translation": ""
+  },
+  {
+    "comment": "69",
+    "context": "69",
+    "key": "Daily Coverage Maximum",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Daily Coverage Maximum",
+    "translation": ""
+  },
+  {
+    "comment": "228",
+    "context": "228",
+    "key": "Measurement of physiological resilience to stressors",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Measurement of physiological resilience to stressors",
+    "translation": ""
+  },
+  {
+    "comment": "353",
+    "context": "353",
+    "key": "Partner memberships available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Partner memberships available",
+    "translation": ""
+  },
+  {
+    "comment": "257",
+    "context": "257",
+    "key": "Coeliac Disease",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coeliac Disease",
+    "translation": ""
+  },
+  {
+    "comment": "16",
+    "context": "16",
+    "key": "Ambulance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Ambulance",
+    "translation": ""
+  },
+  {
+    "comment": "89",
+    "context": "89",
+    "key": "Advanced Identity Monitoring",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Advanced Identity Monitoring",
+    "translation": ""
+  },
+  {
+    "comment": "135",
+    "context": "135",
+    "key": "Actively at Work criteria",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Actively at Work criteria",
+    "translation": ""
+  },
+  {
+    "comment": "322",
+    "context": "322",
+    "key": "Can be selected anytime",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Can be selected anytime",
+    "translation": ""
+  },
+  {
+    "comment": "382",
+    "context": "382",
+    "key": "Selection made at annual enrolment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Selection made at annual enrolment",
+    "translation": ""
+  },
+  {
+    "comment": "132",
+    "context": "132",
+    "key": "Change Restrictions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Change Restrictions",
+    "translation": ""
+  },
+  {
+    "comment": "223",
+    "context": "223",
+    "key": "Full biochemistry profile including liver and kidney function",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Full biochemistry profile including liver and kidney function",
+    "translation": ""
+  },
+  {
+    "comment": "184",
+    "context": "184",
+    "key": "MRI, CT & PET Scanning",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "MRI, CT & PET Scanning",
+    "translation": ""
+  },
+  {
+    "comment": "139",
+    "context": "139",
+    "key": "Escalation for Benefit Payments",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Escalation for Benefit Payments",
+    "translation": ""
+  },
+  {
+    "comment": "146",
+    "context": "146",
+    "key": "Additional Benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Additional Benefits",
+    "translation": ""
+  },
+  {
+    "comment": "290",
+    "context": "290",
+    "key": "Area of Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Area of Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "302",
+    "context": "302",
+    "key": "Money & Documents  Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Money & Documents  Cover",
+    "translation": ""
+  },
+  {
+    "comment": "295",
+    "context": "295",
+    "key": "Trip duration",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Trip duration",
+    "translation": ""
+  },
+  {
+    "comment": "345",
+    "context": "345",
+    "key": "Donations matched for certain charities",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Donations matched for certain charities",
+    "translation": ""
+  },
+  {
+    "comment": "25",
+    "context": "25",
+    "key": "Physical Therapy",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Physical Therapy",
+    "translation": ""
+  },
+  {
+    "comment": "361",
+    "context": "361",
+    "key": "Annual leave traded in shifts",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Annual leave traded in shifts",
+    "translation": ""
+  },
+  {
+    "comment": "71",
+    "context": "71",
+    "key": "Waiting Period",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Waiting Period",
+    "translation": ""
+  },
+  {
+    "comment": "275",
+    "context": "275",
+    "key": "Out-patient Treatment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-patient Treatment",
+    "translation": ""
+  },
+  {
+    "comment": "15",
+    "context": "15",
+    "key": "Coverage Amount (STD)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount (STD)",
+    "translation": ""
+  },
+  {
+    "comment": "412",
+    "context": "412",
+    "key": "Number of funds available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Number of funds available",
+    "translation": ""
+  },
+  {
+    "comment": "300",
+    "context": "300",
+    "key": "Valuables Limit Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Valuables Limit Cover",
+    "translation": ""
+  },
+  {
+    "comment": "389",
+    "context": "389",
+    "key": "Insurance included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Insurance included",
+    "translation": ""
+  },
+  {
+    "comment": "225",
+    "context": "225",
+    "key": "Cholesterol test",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cholesterol test",
+    "translation": ""
+  },
+  {
+    "comment": "343",
+    "context": "343",
+    "key": "Donations matched (up to limits)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Donations matched (up to limits)",
+    "translation": ""
+  },
+  {
+    "comment": "399",
+    "context": "399",
+    "key": "Maximum cases per month",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum cases per month",
+    "translation": ""
+  },
+  {
+    "comment": "68",
+    "context": "68",
+    "key": "Benefit Period",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Period",
+    "translation": ""
+  },
+  {
+    "comment": "222",
+    "context": "222",
+    "key": "Body Mass Index (BMI) calculation",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Body Mass Index (BMI) calculation",
+    "translation": ""
+  },
+  {
+    "comment": "337",
+    "context": "337",
+    "key": "Available at annual enrolment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Available at annual enrolment",
+    "translation": ""
+  },
+  {
+    "comment": "154",
+    "context": "154",
+    "key": "Temporary Partial Disablement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Temporary Partial Disablement",
+    "translation": ""
+  },
+  {
+    "comment": "220",
+    "context": "220",
+    "key": "Personal medical history and lifestyle questionnaire",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal medical history and lifestyle questionnaire",
+    "translation": ""
+  },
+  {
+    "comment": "383",
+    "context": "383",
+    "key": "2 selection opportunities per year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "2 selection opportunities per year",
+    "translation": ""
+  },
+  {
+    "comment": "137",
+    "context": "137",
+    "key": "Definition of Incapacity",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Definition of Incapacity",
+    "translation": ""
+  },
+  {
+    "comment": "367",
+    "context": "367",
+    "key": "Maximum number of hours sold",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of hours sold",
+    "translation": ""
+  },
+  {
+    "comment": "206",
+    "context": "206",
+    "key": "Blood pressure",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Blood pressure",
+    "translation": ""
+  },
+  {
+    "comment": "191",
+    "context": "191",
+    "key": "Testicular Examination (men)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Testicular Examination (men)",
+    "translation": ""
+  },
+  {
+    "comment": "267",
+    "context": "267",
+    "key": "Cardio Profile",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cardio Profile",
+    "translation": ""
+  },
+  {
+    "comment": "348",
+    "context": "348",
+    "key": "Admin costs covered by employer",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Admin costs covered by employer",
+    "translation": ""
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Deductible (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible (Inpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "397",
+    "context": "397",
+    "key": "Admin fee per month",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Admin fee per month",
+    "translation": ""
+  },
+  {
+    "comment": "352",
+    "context": "352",
+    "key": "Typical discount",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Typical discount",
+    "translation": ""
+  },
+  {
+    "comment": "123",
+    "context": "123",
+    "key": "Coinsurance (Major Medical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Major Medical)",
+    "translation": ""
+  },
+  {
+    "comment": "246",
+    "context": "246",
+    "key": "Complementary practitioner charges",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Complementary practitioner charges",
+    "translation": ""
+  },
+  {
+    "comment": "156",
+    "context": "156",
+    "key": "Iron Stores",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Iron Stores",
+    "translation": ""
+  },
+  {
+    "comment": "294",
+    "context": "294",
+    "key": "Maximum Item cost per claim",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Item cost per claim",
+    "translation": ""
+  },
+  {
+    "comment": "405",
+    "context": "405",
+    "key": "Single wills",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Single wills",
+    "translation": ""
+  },
+  {
+    "comment": "82",
+    "context": "82",
+    "key": "Glasses",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Glasses",
+    "translation": ""
+  },
+  {
+    "comment": "340",
+    "context": "340",
+    "key": "Charity of the year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Charity of the year",
+    "translation": ""
+  },
+  {
+    "comment": "287",
+    "context": "287",
+    "key": "Post-natal benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Post-natal benefits",
+    "translation": ""
+  },
+  {
+    "comment": "21",
+    "context": "21",
+    "key": "Lab Test (Common)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lab Test (Common)",
+    "translation": ""
+  },
+  {
+    "comment": "47",
+    "context": "47",
+    "key": "Basic Services",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Basic Services",
+    "translation": ""
+  },
+  {
+    "comment": "66",
+    "context": "66",
+    "key": "Substance Abuse Facility",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Substance Abuse Facility",
+    "translation": ""
+  },
+  {
+    "comment": "319",
+    "context": "319",
+    "key": "Apple included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Apple included",
+    "translation": ""
+  },
+  {
+    "comment": "243",
+    "context": "243",
+    "key": "Diagnostic tests",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Diagnostic tests",
+    "translation": ""
+  },
+  {
+    "comment": "330",
+    "context": "330",
+    "key": "Discount on whole bill",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Discount on whole bill",
+    "translation": ""
+  },
+  {
+    "comment": "202",
+    "context": "202",
+    "key": "Anxiety and depression assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Anxiety and depression assessment",
+    "translation": ""
+  },
+  {
+    "comment": "145",
+    "context": "145",
+    "key": "Exclusions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Exclusions",
+    "translation": ""
+  },
+  {
+    "comment": "165",
+    "context": "165",
+    "key": "Extractions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Extractions",
+    "translation": ""
+  },
+  {
+    "comment": "402",
+    "context": "402",
+    "key": "Tasting notes",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Tasting notes",
+    "translation": ""
+  },
+  {
+    "comment": "416",
+    "context": "416",
+    "key": "Matching shares provided",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Matching shares provided",
+    "translation": ""
+  },
+  {
+    "comment": "40",
+    "context": "40",
+    "key": "Monthly Fee",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Monthly Fee",
+    "translation": ""
+  },
+  {
+    "comment": "136",
+    "context": "136",
+    "key": "Deferred Period",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deferred Period",
+    "translation": ""
+  },
+  {
+    "comment": "329",
+    "context": "329",
+    "key": "Discount on meals",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Discount on meals",
+    "translation": ""
+  },
+  {
+    "comment": "321",
+    "context": "321",
+    "key": "Selection opportunities per year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Selection opportunities per year",
+    "translation": ""
+  },
+  {
+    "comment": "230",
+    "context": "230",
+    "key": "Cardiovascular risk score",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cardiovascular risk score",
+    "translation": ""
+  },
+  {
+    "comment": "314",
+    "context": "314",
+    "key": "Online childcare account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Online childcare account",
+    "translation": ""
+  },
+  {
+    "comment": "60",
+    "context": "60",
+    "key": "Priority Appointment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Priority Appointment",
+    "translation": ""
+  },
+  {
+    "comment": "182",
+    "context": "182",
+    "key": "Chiropody and homeopathy",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chiropody and homeopathy",
+    "translation": ""
+  },
+  {
+    "comment": "183",
+    "context": "183",
+    "key": "Health screening",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health screening",
+    "translation": ""
+  },
+  {
+    "comment": "83",
+    "context": "83",
+    "key": "Contacts",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Contacts",
+    "translation": ""
+  },
+  {
+    "comment": "211",
+    "context": "211",
+    "key": "Lipids (total cholesterol, high-density lipoprotein, low-density lipoprotein and triglycerides)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lipids (total cholesterol, high-density lipoprotein, low-density lipoprotein and triglycerides)",
+    "translation": ""
+  },
+  {
+    "comment": "181",
+    "context": "181",
+    "key": "Therapies",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Therapies",
+    "translation": ""
+  },
+  {
+    "comment": "212",
+    "context": "212",
+    "key": "Diabetes HbA1c (glycated haemoglobin - non-fasting)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Diabetes HbA1c (glycated haemoglobin - non-fasting)",
+    "translation": ""
+  },
+  {
+    "comment": "205",
+    "context": "205",
+    "key": "Diet assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Diet assessment",
+    "translation": ""
+  },
+  {
+    "comment": "392",
+    "context": "392",
+    "key": "Electronic retail card",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Electronic retail card",
+    "translation": ""
+  },
+  {
+    "comment": "192",
+    "context": "192",
+    "key": "Prostate Examination (men)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Prostate Examination (men)",
+    "translation": ""
+  },
+  {
+    "comment": "423",
+    "context": "423",
+    "key": "Help to buy ISA",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Help to buy ISA",
+    "translation": ""
+  },
+  {
+    "comment": "53",
+    "context": "53",
+    "key": "Term of Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term of Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "169",
+    "context": "169",
+    "key": "Crowns and bridges",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Crowns and bridges",
+    "translation": ""
+  },
+  {
+    "comment": "86",
+    "context": "86",
+    "key": "Child Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "77",
+    "context": "77",
+    "key": "Maximum Annual Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Annual Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "280",
+    "context": "280",
+    "key": "Minimum # of hospital days to be payable",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Minimum # of hospital days to be payable",
+    "translation": ""
+  },
+  {
+    "comment": "125",
+    "context": "125",
+    "key": "Maximum Contribution",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Contribution",
+    "translation": ""
+  },
+  {
+    "comment": "293",
+    "context": "293",
+    "key": "Maximum number of claims",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of claims",
+    "translation": ""
+  },
+  {
+    "comment": "244",
+    "context": "244",
+    "key": "Physiotherapy",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Physiotherapy",
+    "translation": ""
+  },
+  {
+    "comment": "195",
+    "context": "195",
+    "key": "Cervical Smear",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cervical Smear",
+    "translation": ""
+  },
+  {
+    "comment": "268",
+    "context": "268",
+    "key": "Vitality Profile",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vitality Profile",
+    "translation": ""
+  },
+  {
+    "comment": "261",
+    "context": "261",
+    "key": "Lung scan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lung scan",
+    "translation": ""
+  },
+  {
+    "comment": "273",
+    "context": "273",
+    "key": "Psychiatric Maximum Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Psychiatric Maximum Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "311",
+    "context": "311",
+    "key": "Update selection anytime",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Update selection anytime",
+    "translation": ""
+  },
+  {
+    "comment": "166",
+    "context": "166",
+    "key": "Veneers and inlays",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Veneers and inlays",
+    "translation": ""
+  },
+  {
+    "comment": "172",
+    "context": "172",
+    "key": "Dental x-rays (at home or abroad)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental x-rays (at home or abroad)",
+    "translation": ""
+  },
+  {
+    "comment": "356",
+    "context": "356",
+    "key": "Select membership anytime",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Select membership anytime",
+    "translation": ""
+  },
+  {
+    "comment": "291",
+    "context": "291",
+    "key": "Scope of Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Scope of Cover",
+    "translation": ""
+  },
+  {
+    "comment": "174",
+    "context": "174",
+    "key": "Hospital Treatment Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Treatment Insurance",
+    "translation": ""
+  },
+  {
+    "comment": "12",
+    "context": "12",
+    "key": "Room & Board (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Room & Board (Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "357",
+    "context": "357",
+    "key": "Buy annual leave",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Buy annual leave",
+    "translation": ""
+  },
+  {
+    "comment": "32",
+    "context": "32",
+    "key": "Premium",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Premium",
+    "translation": ""
+  },
+  {
+    "comment": "63",
+    "context": "63",
+    "key": "Online Wellness",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Online Wellness",
+    "translation": ""
+  },
+  {
+    "comment": "200",
+    "context": "200",
+    "key": "Time with Doctor",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Time with Doctor",
+    "translation": ""
+  },
+  {
+    "comment": "236",
+    "context": "236",
+    "key": "Prostate cancer blood test",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Prostate cancer blood test",
+    "translation": ""
+  },
+  {
+    "comment": "415",
+    "context": "415",
+    "key": "150 per month (or 10% of salary if less)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "150 per month (or 10% of salary if less)",
+    "translation": ""
+  },
+  {
+    "comment": "336",
+    "context": "336",
+    "key": "Free gift",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Free gift",
+    "translation": ""
+  },
+  {
+    "comment": "297",
+    "context": "297",
+    "key": "Medical & Other Expenses Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical & Other Expenses Cover",
+    "translation": ""
+  },
+  {
+    "comment": "204",
+    "context": "204",
+    "key": "Diabetes risk",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Diabetes risk",
+    "translation": ""
+  },
+  {
+    "comment": "404",
+    "context": "404",
+    "key": "Partner cover available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Partner cover available",
+    "translation": ""
+  },
+  {
+    "comment": "346",
+    "context": "346",
+    "key": "Online charity account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Online charity account",
+    "translation": ""
+  },
+  {
+    "comment": "218",
+    "context": "218",
+    "key": "Time with nurse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Time with nurse",
+    "translation": ""
+  },
+  {
+    "comment": "249",
+    "context": "249",
+    "key": "Co-pay",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Co-pay",
+    "translation": ""
+  },
+  {
+    "comment": "210",
+    "context": "210",
+    "key": "Blood and urine tests",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Blood and urine tests",
+    "translation": ""
+  },
+  {
+    "comment": "270",
+    "context": "270",
+    "key": "Network Booster",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Network Booster",
+    "translation": ""
+  },
+  {
+    "comment": "318",
+    "context": "318",
+    "key": "Includes laptops, tablets, games consoles, TVs and smart watches",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Includes laptops, tablets, games consoles, TVs and smart watches",
+    "translation": ""
+  },
+  {
+    "comment": "171",
+    "context": "171",
+    "key": "Hygiene treatments (at home or abroad)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hygiene treatments (at home or abroad)",
+    "translation": ""
+  },
+  {
+    "comment": "316",
+    "context": "316",
+    "key": "Parents helpline",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parents helpline",
+    "translation": ""
+  },
+  {
+    "comment": "22",
+    "context": "22",
+    "key": "Preventive Checkup",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Preventive Checkup",
+    "translation": ""
+  },
+  {
+    "comment": "292",
+    "context": "292",
+    "key": "Maximum Level of Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Level of Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "262",
+    "context": "262",
+    "key": "Blood test",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Blood test",
+    "translation": ""
+  },
+  {
+    "comment": "57",
+    "context": "57",
+    "key": "Phone Consultations",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Phone Consultations",
+    "translation": ""
+  },
+  {
+    "comment": "325",
+    "context": "325",
+    "key": "Local independent retailers",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Local independent retailers",
+    "translation": ""
+  },
+  {
+    "comment": "276",
+    "context": "276",
+    "key": "Complementary Medicine",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Complementary Medicine",
+    "translation": ""
+  },
+  {
+    "comment": "95",
+    "context": "95",
+    "key": "Lost Wallet Assistance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lost Wallet Assistance",
+    "translation": ""
+  },
+  {
+    "comment": "253",
+    "context": "253",
+    "key": "PSA",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "PSA",
+    "translation": ""
+  },
+  {
+    "comment": "152",
+    "context": "152",
+    "key": "Permanent Partial Disablement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Permanent Partial Disablement",
+    "translation": ""
+  },
+  {
+    "comment": "180",
+    "context": "180",
+    "key": "Diagnostic consultation",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Diagnostic consultation",
+    "translation": ""
+  },
+  {
+    "comment": "296",
+    "context": "296",
+    "key": "Area of cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Area of cover",
+    "translation": ""
+  },
+  {
+    "comment": "19",
+    "context": "19",
+    "key": "Outpatient Procedure",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Outpatient Procedure",
+    "translation": ""
+  },
+  {
+    "comment": "70",
+    "context": "70",
+    "key": "Inflation Adjustment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Inflation Adjustment",
+    "translation": ""
+  },
+  {
+    "comment": "289",
+    "context": "289",
+    "key": "NICU coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "NICU coverage",
+    "translation": ""
+  },
+  {
+    "comment": "227",
+    "context": "227",
+    "key": "Computerised spinal assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Computerised spinal assessment",
+    "translation": ""
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Deductible (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible (Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "388",
+    "context": "388",
+    "key": "Cannot reselect until existing hire period complete",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cannot reselect until existing hire period complete",
+    "translation": ""
+  },
+  {
+    "comment": "331",
+    "context": "331",
+    "key": "2 for 1 discount",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "2 for 1 discount",
+    "translation": ""
+  },
+  {
+    "comment": "324",
+    "context": "324",
+    "key": "National chain of outlets",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "National chain of outlets",
+    "translation": ""
+  },
+  {
+    "comment": "61",
+    "context": "61",
+    "key": "Prescription Program",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Prescription Program",
+    "translation": ""
+  },
+  {
+    "comment": "323",
+    "context": "323",
+    "key": "Discount provided on certificate value",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Discount provided on certificate value",
+    "translation": ""
+  },
+  {
+    "comment": "264",
+    "context": "264",
+    "key": "CT scan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "CT scan",
+    "translation": ""
+  },
+  {
+    "comment": "240",
+    "context": "240",
+    "key": "Mammography (where purchased and usually appropriate for those aged 40 and over)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mammography (where purchased and usually appropriate for those aged 40 and over)",
+    "translation": ""
+  },
+  {
+    "comment": "164",
+    "context": "164",
+    "key": "Root treatments",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Root treatments",
+    "translation": ""
+  },
+  {
+    "comment": "278",
+    "context": "278",
+    "key": "Cancer treatment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer treatment",
+    "translation": ""
+  },
+  {
+    "comment": "378",
+    "context": "378",
+    "key": "24 month agreement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "24 month agreement",
+    "translation": ""
+  },
+  {
+    "comment": "142",
+    "context": "142",
+    "key": "Maximum Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Cover",
+    "translation": ""
+  },
+  {
+    "comment": "266",
+    "context": "266",
+    "key": "Thyroid Function",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Thyroid Function",
+    "translation": ""
+  },
+  {
+    "comment": "234",
+    "context": "234",
+    "key": "Analysis of metabolic syndrome risk syndrome",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Analysis of metabolic syndrome risk syndrome",
+    "translation": ""
+  },
+  {
+    "comment": "247",
+    "context": "247",
+    "key": "Out-patient drugs and dressings",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-patient drugs and dressings",
+    "translation": ""
+  },
+  {
+    "comment": "26",
+    "context": "26",
+    "key": "Tier 1 Prescriptions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Tier 1 Prescriptions",
+    "translation": ""
+  },
+  {
+    "comment": "175",
+    "context": "175",
+    "key": "Underwriting terms",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Underwriting terms",
+    "translation": ""
+  },
+  {
+    "comment": "396",
+    "context": "396",
+    "key": "Load extra funds from debit card",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Load extra funds from debit card",
+    "translation": ""
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Room & Board (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Room & Board (Inpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "207",
+    "context": "207",
+    "key": "Heart rhythm screening",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Heart rhythm screening",
+    "translation": ""
+  },
+  {
+    "comment": "245",
+    "context": "245",
+    "key": "Vaccinations and their administration by a medical practitioner or nurse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vaccinations and their administration by a medical practitioner or nurse",
+    "translation": ""
+  },
+  {
+    "comment": "315",
+    "context": "315",
+    "key": "Emergency childcare",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Emergency childcare",
+    "translation": ""
+  },
+  {
+    "comment": "36",
+    "context": "36",
+    "key": "Disability Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Disability Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "269",
+    "context": "269",
+    "key": "Allowance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Allowance",
+    "translation": ""
+  },
+  {
+    "comment": "349",
+    "context": "349",
+    "key": "Regular giving",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Regular giving",
+    "translation": ""
+  },
+  {
+    "comment": "256",
+    "context": "256",
+    "key": "Kidney Function",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Kidney Function",
+    "translation": ""
+  },
+  {
+    "comment": "333",
+    "context": "333",
+    "key": "Favourite chains",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Favourite chains",
+    "translation": ""
+  },
+  {
+    "comment": "365",
+    "context": "365",
+    "key": "Maximum number of days sold",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of days sold",
+    "translation": ""
+  },
+  {
+    "comment": "233",
+    "context": "233",
+    "key": "Estimation of fitness (VO2 max)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Estimation of fitness (VO2 max)",
+    "translation": ""
+  },
+  {
+    "comment": "45",
+    "context": "45",
+    "key": "Maximum Annual Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Annual Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "33",
+    "context": "33",
+    "key": "Member Rating",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Member Rating",
+    "translation": ""
+  },
+  {
+    "comment": "126",
+    "context": "126",
+    "key": "Employer Match",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer Match",
+    "translation": ""
+  },
+  {
+    "comment": "370",
+    "context": "370",
+    "key": "Contract",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Contract",
+    "translation": ""
+  },
+  {
+    "comment": "34",
+    "context": "34",
+    "key": "Hospital Per Day",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Per Day",
+    "translation": ""
+  },
+  {
+    "comment": "237",
+    "context": "237",
+    "key": "Breast examination & guidance on self examination",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Breast examination & guidance on self examination",
+    "translation": ""
+  },
+  {
+    "comment": "417",
+    "context": "417",
+    "key": "Free shares provided",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Free shares provided",
+    "translation": ""
+  },
+  {
+    "comment": "373",
+    "context": "373",
+    "key": "HTC included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "HTC included",
+    "translation": ""
+  },
+  {
+    "comment": "284",
+    "context": "284",
+    "key": "Benefit Level (Max for normal delivery)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Level (Max for normal delivery)",
+    "translation": ""
+  },
+  {
+    "comment": "422",
+    "context": "422",
+    "key": "Investment ISA",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Investment ISA",
+    "translation": ""
+  },
+  {
+    "comment": "163",
+    "context": "163",
+    "key": "Fillings and root canal",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Fillings and root canal",
+    "translation": ""
+  },
+  {
+    "comment": "344",
+    "context": "344",
+    "key": "Monthly donation matched up to",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Monthly donation matched up to",
+    "translation": ""
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Coverage Amount - Salary Continuation (LTD)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount - Salary Continuation (LTD)",
+    "translation": ""
+  },
+  {
+    "comment": "93",
+    "context": "93",
+    "key": "Credit Reports & Scores",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Credit Reports & Scores",
+    "translation": ""
+  },
+  {
+    "comment": "133",
+    "context": "133",
+    "key": "Free Cover Level",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Free Cover Level",
+    "translation": ""
+  },
+  {
+    "comment": "252",
+    "context": "252",
+    "key": "Lung function test",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lung function test",
+    "translation": ""
+  },
+  {
+    "comment": "91",
+    "context": "91",
+    "key": "Full-Service Identity Restoration",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Full-Service Identity Restoration",
+    "translation": ""
+  },
+  {
+    "comment": "58",
+    "context": "58",
+    "key": "Email Consultations",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Email Consultations",
+    "translation": ""
+  },
+  {
+    "comment": "43",
+    "context": "43",
+    "key": "Diagnosis Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Diagnosis Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "79",
+    "context": "79",
+    "key": "Glasses",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Glasses",
+    "translation": ""
+  },
+  {
+    "comment": "339",
+    "context": "339",
+    "key": "Selected charities",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Selected charities",
+    "translation": ""
+  },
+  {
+    "comment": "100",
+    "context": "100",
+    "key": "Coverage Amount",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount",
+    "translation": ""
+  },
+  {
+    "comment": "403",
+    "context": "403",
+    "key": "Delivery cost per case",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Delivery cost per case",
+    "translation": ""
+  },
+  {
+    "comment": "224",
+    "context": "224",
+    "key": "Blood glucose test for diabetes",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Blood glucose test for diabetes",
+    "translation": ""
+  },
+  {
+    "comment": "285",
+    "context": "285",
+    "key": "Benefit Level (Max for caesarian section)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Level (Max for caesarian section)",
+    "translation": ""
+  },
+  {
+    "comment": "134",
+    "context": "134",
+    "key": "Underwriting",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Underwriting",
+    "translation": ""
+  },
+  {
+    "comment": "335",
+    "context": "335",
+    "key": "Cinema discount included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cinema discount included",
+    "translation": ""
+  },
+  {
+    "comment": "196",
+    "context": "196",
+    "key": "HPV Test (women)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "HPV Test (women)",
+    "translation": ""
+  },
+  {
+    "comment": "27",
+    "context": "27",
+    "key": "Tier 2 Prescriptions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Tier 2 Prescriptions",
+    "translation": ""
+  },
+  {
+    "comment": "359",
+    "context": "359",
+    "key": "Annual leave traded in days",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Annual leave traded in days",
+    "translation": ""
+  },
+  {
+    "comment": "38",
+    "context": "38",
+    "key": "Preventive Care",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Preventive Care",
+    "translation": ""
+  },
+  {
+    "comment": "197",
+    "context": "197",
+    "key": "HVS test (women)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "HVS test (women)",
+    "translation": ""
+  },
+  {
+    "comment": "242",
+    "context": "242",
+    "key": "Maximum Dependant Age",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Dependant Age",
+    "translation": ""
+  },
+  {
+    "comment": "217",
+    "context": "217",
+    "key": "Additional pathology tests",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Additional pathology tests",
+    "translation": ""
+  },
+  {
+    "comment": "153",
+    "context": "153",
+    "key": "Temporary Total Disablement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Temporary Total Disablement",
+    "translation": ""
+  },
+  {
+    "comment": "387",
+    "context": "387",
+    "key": "Tax and National Insurance savings",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Tax and National Insurance savings",
+    "translation": ""
+  },
+  {
+    "comment": "312",
+    "context": "312",
+    "key": "Paper vouchers",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Paper vouchers",
+    "translation": ""
+  },
+  {
+    "comment": "327",
+    "context": "327",
+    "key": "Benefit includes financing",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit includes financing",
+    "translation": ""
+  },
+  {
+    "comment": "369",
+    "context": "369",
+    "key": "Pay as you go",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Pay as you go",
+    "translation": ""
+  },
+  {
+    "comment": "170",
+    "context": "170",
+    "key": "Routine examinations (at home or abroad)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Routine examinations (at home or abroad)",
+    "translation": ""
+  },
+  {
+    "comment": "121",
+    "context": "121",
+    "key": "Coinsurance (Hospital & Surgical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Hospital & Surgical)",
+    "translation": ""
+  },
+  {
+    "comment": "272",
+    "context": "272",
+    "key": "Out-Patient Maximum Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-Patient Maximum Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "52",
+    "context": "52",
+    "key": "Preventive Services",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Preventive Services",
+    "translation": ""
+  },
+  {
+    "comment": "88",
+    "context": "88",
+    "key": "Basic Identity Monitoring",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Basic Identity Monitoring",
+    "translation": ""
+  },
+  {
+    "comment": "400",
+    "context": "400",
+    "key": "Maximum cases per quarter",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum cases per quarter",
+    "translation": ""
+  },
+  {
+    "comment": "259",
+    "context": "259",
+    "key": "Bones & Joints Review",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Bones & Joints Review",
+    "translation": ""
+  },
+  {
+    "comment": "141",
+    "context": "141",
+    "key": "Number of Conditions Covered",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Number of Conditions Covered",
+    "translation": ""
+  },
+  {
+    "comment": "72",
+    "context": "72",
+    "key": "Benefit Period Rating",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Period Rating",
+    "translation": ""
+  },
+  {
+    "comment": "351",
+    "context": "351",
+    "key": "Choice of nationwide gym memberships",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Choice of nationwide gym memberships",
+    "translation": ""
+  },
+  {
+    "comment": "130",
+    "context": "130",
+    "key": "Maximum Age",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Age",
+    "translation": ""
+  },
+  {
+    "comment": "97",
+    "context": "97",
+    "key": "Coinsurance (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Inpatient + Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "39",
+    "context": "39",
+    "key": "Out-of-Network Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-of-Network Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Coinsurance (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "342",
+    "context": "342",
+    "key": "Donations are matched",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Donations are matched",
+    "translation": ""
+  },
+  {
+    "comment": "372",
+    "context": "372",
+    "key": "Sony included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Sony included",
+    "translation": ""
+  },
+  {
+    "comment": "44",
+    "context": "44",
+    "key": "Wellness Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wellness Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "271",
+    "context": "271",
+    "key": "In-Patient Maximum Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "In-Patient Maximum Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "263",
+    "context": "263",
+    "key": "Colon scan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Colon scan",
+    "translation": ""
+  },
+  {
+    "comment": "158",
+    "context": "158",
+    "key": "Minimum Age",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Minimum Age",
+    "translation": ""
+  },
+  {
+    "comment": "241",
+    "context": "241",
+    "key": "Maximum benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum benefit",
+    "translation": ""
+  },
+  {
+    "comment": "64",
+    "context": "64",
+    "key": "Health Coach",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Coach",
+    "translation": ""
+  },
+  {
+    "comment": "395",
+    "context": "395",
+    "key": "Partner card available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Partner card available",
+    "translation": ""
+  },
+  {
+    "comment": "391",
+    "context": "391",
+    "key": "Number of retailers available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Number of retailers available",
+    "translation": ""
+  },
+  {
+    "comment": "198",
+    "context": "198",
+    "key": "Fitness Assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Fitness Assessment",
+    "translation": ""
+  },
+  {
+    "comment": "35",
+    "context": "35",
+    "key": "Hospital Admission",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Admission",
+    "translation": ""
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Coinsurance (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Inpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "59",
+    "context": "59",
+    "key": "Scheduled Appointment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Scheduled Appointment",
+    "translation": ""
+  },
+  {
+    "comment": "421",
+    "context": "421",
+    "key": "Cash ISA",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cash ISA",
+    "translation": ""
+  },
+  {
+    "comment": "124",
+    "context": "124",
+    "key": "Coverage Maximum (Major Medical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Major Medical)",
+    "translation": ""
+  },
+  {
+    "comment": "24",
+    "context": "24",
+    "key": "Specialist Visit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Specialist Visit",
+    "translation": ""
+  },
+  {
+    "comment": "299",
+    "context": "299",
+    "key": "Single Article Limit Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Single Article Limit Cover",
+    "translation": ""
+  },
+  {
+    "comment": "385",
+    "context": "385",
+    "key": "Discount provided",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Discount provided",
+    "translation": ""
+  },
+  {
+    "comment": "363",
+    "context": "363",
+    "key": "Selection can be made at any time on joining",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Selection can be made at any time on joining",
+    "translation": ""
+  },
+  {
+    "comment": "48",
+    "context": "48",
+    "key": "Major Services",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Major Services",
+    "translation": ""
+  },
+  {
+    "comment": "23",
+    "context": "23",
+    "key": "Doctor Visit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Doctor Visit",
+    "translation": ""
+  },
+  {
+    "comment": "355",
+    "context": "355",
+    "key": "Select membership at annual renewal",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Select membership at annual renewal",
+    "translation": ""
+  },
+  {
+    "comment": "127",
+    "context": "127",
+    "key": "Employer Match Percentage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer Match Percentage",
+    "translation": ""
+  },
+  {
+    "comment": "28",
+    "context": "28",
+    "key": "Tier 3 Prescriptions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Tier 3 Prescriptions",
+    "translation": ""
+  },
+  {
+    "comment": "371",
+    "context": "371",
+    "key": "Samsung included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Samsung included",
+    "translation": ""
+  },
+  {
+    "comment": "129",
+    "context": "129",
+    "key": "Maximum Age",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Age",
+    "translation": ""
+  },
+  {
+    "comment": "238",
+    "context": "238",
+    "key": "Pelvic examination",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Pelvic examination",
+    "translation": ""
+  },
+  {
+    "comment": "326",
+    "context": "326",
+    "key": "Any brand sourced",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Any brand sourced",
+    "translation": ""
+  },
+  {
+    "comment": "157",
+    "context": "157",
+    "key": "Frequency of Scans",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Frequency of Scans",
+    "translation": ""
+  },
+  {
+    "comment": "201",
+    "context": "201",
+    "key": "Total Assesment Time",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Total Assesment Time",
+    "translation": ""
+  },
+  {
+    "comment": "406",
+    "context": "406",
+    "key": "Partner wills",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Partner wills",
+    "translation": ""
+  },
+  {
+    "comment": "398",
+    "context": "398",
+    "key": "Admin fee %",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Admin fee %",
+    "translation": ""
+  },
+  {
+    "comment": "179",
+    "context": "179",
+    "key": "Optical",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Optical",
+    "translation": ""
+  },
+  {
+    "comment": "260",
+    "context": "260",
+    "key": "Heart scan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Heart scan",
+    "translation": ""
+  },
+  {
+    "comment": "282",
+    "context": "282",
+    "key": "Moratorium",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Moratorium",
+    "translation": ""
+  },
+  {
+    "comment": "161",
+    "context": "161",
+    "key": "Examination",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Examination",
+    "translation": ""
+  },
+  {
+    "comment": "62",
+    "context": "62",
+    "key": "Extra Benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Extra Benefits",
+    "translation": ""
+  },
+  {
+    "comment": "13",
+    "context": "13",
+    "key": "Coverage Maximum (Annual)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Annual)",
+    "translation": ""
+  },
+  {
+    "comment": "328",
+    "context": "328",
+    "key": "Maximum number of cards available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of cards available",
+    "translation": ""
+  },
+  {
+    "comment": "307",
+    "context": "307",
+    "key": "Catastrophe Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Catastrophe Cover",
+    "translation": ""
+  },
+  {
+    "comment": "214",
+    "context": "214",
+    "key": "Kidney risk - eGFR and kidney risk - ACR (detailed kidney function tests)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Kidney risk - eGFR and kidney risk - ACR (detailed kidney function tests)",
+    "translation": ""
+  },
+  {
+    "comment": "377",
+    "context": "377",
+    "key": "12 month agreement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "12 month agreement",
+    "translation": ""
+  },
+  {
+    "comment": "187",
+    "context": "187",
+    "key": "Number of procedures covered",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Number of procedures covered",
+    "translation": ""
+  },
+  {
+    "comment": "84",
+    "context": "84",
+    "key": "Employee Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "368",
+    "context": "368",
+    "key": "Sim free",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Sim free",
+    "translation": ""
+  },
+  {
+    "comment": "320",
+    "context": "320",
+    "key": "Hire period duration in months",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hire period duration in months",
+    "translation": ""
+  },
+  {
+    "comment": "248",
+    "context": "248",
+    "key": "Dental care",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental care",
+    "translation": ""
+  },
+  {
+    "comment": "414",
+    "context": "414",
+    "key": "Maintain your investment choices",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maintain your investment choices",
+    "translation": ""
+  },
+  {
+    "comment": "332",
+    "context": "332",
+    "key": "Number of participating restaurants",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Number of participating restaurants",
+    "translation": ""
+  },
+  {
+    "comment": "18",
+    "context": "18",
+    "key": "Hospital Stay",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Stay",
+    "translation": ""
+  },
+  {
+    "comment": "190",
+    "context": "190",
+    "key": "Chest x-ray",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chest x-ray",
+    "translation": ""
+  },
+  {
+    "comment": "410",
+    "context": "410",
+    "key": "Elect additional contributions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Elect additional contributions",
+    "translation": ""
+  },
+  {
+    "comment": "155",
+    "context": "155",
+    "key": "Quadriplegia/Paraplegia/Hemiplegia/Triplegia",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Quadriplegia/Paraplegia/Hemiplegia/Triplegia",
+    "translation": ""
+  },
+  {
+    "comment": "76",
+    "context": "76",
+    "key": "Deductible",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible",
+    "translation": ""
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Coverage Amount (Death)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount (Death)",
+    "translation": ""
+  },
+  {
+    "comment": "87",
+    "context": "87",
+    "key": "Benefit Waiting Period",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Waiting Period",
+    "translation": ""
+  },
+  {
+    "comment": "74",
+    "context": "74",
+    "key": "Elimination Period Rating",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Elimination Period Rating",
+    "translation": ""
+  },
+  {
+    "comment": "380",
+    "context": "380",
+    "key": "Select equipment online",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Select equipment online",
+    "translation": ""
+  },
+  {
+    "comment": "17",
+    "context": "17",
+    "key": "Emergency Room",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Emergency Room",
+    "translation": ""
+  },
+  {
+    "comment": "199",
+    "context": "199",
+    "key": "Advanced Fitness Assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Advanced Fitness Assessment",
+    "translation": ""
+  },
+  {
+    "comment": "167",
+    "context": "167",
+    "key": "Dentures",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dentures",
+    "translation": ""
+  },
+  {
+    "comment": "160",
+    "context": "160",
+    "key": "Smokers only",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Smokers only",
+    "translation": ""
+  },
+  {
+    "comment": "317",
+    "context": "317",
+    "key": "Bicycle and accessories",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Bicycle and accessories",
+    "translation": ""
+  },
+  {
+    "comment": "213",
+    "context": "213",
+    "key": "Haemoglobin (anaemia)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Haemoglobin (anaemia)",
+    "translation": ""
+  },
+  {
+    "comment": "305",
+    "context": "305",
+    "key": "Personal Liability Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal Liability Cover",
+    "translation": ""
+  },
+  {
+    "comment": "144",
+    "context": "144",
+    "key": "Exclusions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Exclusions",
+    "translation": ""
+  },
+  {
+    "comment": "265",
+    "context": "265",
+    "key": "Full Lipid Profile",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Full Lipid Profile",
+    "translation": ""
+  },
+  {
+    "comment": "122",
+    "context": "122",
+    "key": "Coverage Maximum (Hospital & Surgical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Hospital & Surgical)",
+    "translation": ""
+  },
+  {
+    "comment": "251",
+    "context": "251",
+    "key": "Hospital Access",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Access",
+    "translation": ""
+  },
+  {
+    "comment": "277",
+    "context": "277",
+    "key": "Psychiatric Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Psychiatric Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "140",
+    "context": "140",
+    "key": "Type of Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Type of Cover",
+    "translation": ""
+  },
+  {
+    "comment": "226",
+    "context": "226",
+    "key": "Analysis of nutrition status",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Analysis of nutrition status",
+    "translation": ""
+  },
+  {
+    "comment": "208",
+    "context": "208",
+    "key": "Resting ECG (electrocardiogram)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Resting ECG (electrocardiogram)",
+    "translation": ""
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Coverage Maximum (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Inpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "409",
+    "context": "409",
+    "key": "Online pension portal",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Online pension portal",
+    "translation": ""
+  },
+  {
+    "comment": "393",
+    "context": "393",
+    "key": "Discounted voucher",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Discounted voucher",
+    "translation": ""
+  },
+  {
+    "comment": "85",
+    "context": "85",
+    "key": "Spouse Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "209",
+    "context": "209",
+    "key": "Body composition",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Body composition",
+    "translation": ""
+  },
+  {
+    "comment": "364",
+    "context": "364",
+    "key": "Maximum number of days bought",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of days bought",
+    "translation": ""
+  },
+  {
+    "comment": "151",
+    "context": "151",
+    "key": "Permanant Total Disablement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Permanant Total Disablement",
+    "translation": ""
+  },
+  {
+    "comment": "303",
+    "context": "303",
+    "key": "Cash Inner Limit Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cash Inner Limit Cover",
+    "translation": ""
+  },
+  {
+    "comment": "308",
+    "context": "308",
+    "key": "Winter Sports Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Winter Sports Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "221",
+    "context": "221",
+    "key": "Height and weight measurements",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Height and weight measurements",
+    "translation": ""
+  },
+  {
+    "comment": "90",
+    "context": "90",
+    "key": "Cyber Monitoring",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cyber Monitoring",
+    "translation": ""
+  },
+  {
+    "comment": "313",
+    "context": "313",
+    "key": "Electronic vouchers",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Electronic vouchers",
+    "translation": ""
+  },
+  {
+    "comment": "374",
+    "context": "374",
+    "key": "LG included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "LG included",
+    "translation": ""
+  },
+  {
+    "comment": "239",
+    "context": "239",
+    "key": "Thyroid function test (female)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Thyroid function test (female)",
+    "translation": ""
+  },
+  {
+    "comment": "379",
+    "context": "379",
+    "key": "36 month agreement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "36 month agreement",
+    "translation": ""
+  },
+  {
+    "comment": "381",
+    "context": "381",
+    "key": "Equipment delivered to home address",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Equipment delivered to home address",
+    "translation": ""
+  },
+  {
+    "comment": "376",
+    "context": "376",
+    "key": "Blackberry included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Blackberry included",
+    "translation": ""
+  },
+  {
+    "comment": "178",
+    "context": "178",
+    "key": "Dental trauma",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental trauma",
+    "translation": ""
+  },
+  {
+    "comment": "281",
+    "context": "281",
+    "key": "Maximum number of days payable",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of days payable",
+    "translation": ""
+  },
+  {
+    "comment": "147",
+    "context": "147",
+    "key": "Childrens Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Childrens Cover",
+    "translation": ""
+  },
+  {
+    "comment": "358",
+    "context": "358",
+    "key": "Sell annual leave",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Sell annual leave",
+    "translation": ""
+  },
+  {
+    "comment": "150",
+    "context": "150",
+    "key": "Maximum Age for Dependants",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Age for Dependants",
+    "translation": ""
+  },
+  {
+    "comment": "78",
+    "context": "78",
+    "key": "Exam",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Exam",
+    "translation": ""
+  },
+  {
+    "comment": "338",
+    "context": "338",
+    "key": "Available any time during the year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Available any time during the year",
+    "translation": ""
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Maximum per Delivery (Maternity)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum per Delivery (Maternity)",
+    "translation": ""
+  },
+  {
+    "comment": "177",
+    "context": "177",
+    "key": "Dental",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental",
+    "translation": ""
+  },
+  {
+    "comment": "334",
+    "context": "334",
+    "key": "Fine dining",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Fine dining",
+    "translation": ""
+  },
+  {
+    "comment": "350",
+    "context": "350",
+    "key": "One off giving",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "One off giving",
+    "translation": ""
+  },
+  {
+    "comment": "42",
+    "context": "42",
+    "key": "Use It or Lose It",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Use It or Lose It",
+    "translation": ""
+  },
+  {
+    "comment": "420",
+    "context": "420",
+    "key": "Annual contribution limit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Annual contribution limit",
+    "translation": ""
+  },
+  {
+    "comment": "283",
+    "context": "283",
+    "key": "Voluntary Termination of Pregnancy (Max # of Weeks)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Voluntary Termination of Pregnancy (Max # of Weeks)",
+    "translation": ""
+  },
+  {
+    "comment": "73",
+    "context": "73",
+    "key": "Coverage Maximum Rating",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum Rating",
+    "translation": ""
+  },
+  {
+    "comment": "274",
+    "context": "274",
+    "key": "Cancer Maximum Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Maximum Coverage",
+    "translation": ""
+  },
+  {
+    "comment": "258",
+    "context": "258",
+    "key": "Colon",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Colon",
+    "translation": ""
+  },
+  {
+    "comment": "301",
+    "context": "301",
+    "key": "Delayed Baggage after 12 hours Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Delayed Baggage after 12 hours Cover",
+    "translation": ""
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Coverage Maximum (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "41",
+    "context": "41",
+    "key": "Debit Card",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Debit Card",
+    "translation": ""
+  },
+  {
+    "comment": "286",
+    "context": "286",
+    "key": "Pre-natal benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Pre-natal benefits",
+    "translation": ""
+  },
+  {
+    "comment": "419",
+    "context": "419",
+    "key": "Maximum monthly contribution",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum monthly contribution",
+    "translation": ""
+  },
+  {
+    "comment": "418",
+    "context": "418",
+    "key": "Stop, start and suspend at anytime",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Stop, start and suspend at anytime",
+    "translation": ""
+  },
+  {
+    "comment": "219",
+    "context": "219",
+    "key": "Time physiologist",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Time physiologist",
+    "translation": ""
+  },
+  {
+    "comment": "186",
+    "context": "186",
+    "key": "Maximum age for Partners",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum age for Partners",
+    "translation": ""
+  },
+  {
+    "comment": "347",
+    "context": "347",
+    "key": "Charity chequebook provided",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Charity chequebook provided",
+    "translation": ""
+  },
+  {
+    "comment": "98",
+    "context": "98",
+    "key": "Deductible (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible (Inpatient + Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "168",
+    "context": "168",
+    "key": "Implant",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Implant",
+    "translation": ""
+  },
+  {
+    "comment": "375",
+    "context": "375",
+    "key": "Lumia included",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lumia included",
+    "translation": ""
+  },
+  {
+    "comment": "30",
+    "context": "30",
+    "key": "Chiropractic Visit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chiropractic Visit",
+    "translation": ""
+  },
+  {
+    "comment": "31",
+    "context": "31",
+    "key": "Mental Health Visit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mental Health Visit",
+    "translation": ""
+  },
+  {
+    "comment": "232",
+    "context": "232",
+    "key": "Bowel cancer test",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Bowel cancer test",
+    "translation": ""
+  },
+  {
+    "comment": "81",
+    "context": "81",
+    "key": "Waiting Period - Illness Or Injury",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Waiting Period - Illness Or Injury",
+    "translation": ""
+  },
+  {
+    "comment": "362",
+    "context": "362",
+    "key": "Selection made at annual enrolment only",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Selection made at annual enrolment only",
+    "translation": ""
+  },
+  {
+    "comment": "92",
+    "context": "92",
+    "key": "Credit Report Monitoring",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Credit Report Monitoring",
+    "translation": ""
+  },
+  {
+    "comment": "189",
+    "context": "189",
+    "key": "Bowel Cancer",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Bowel Cancer",
+    "translation": ""
+  },
+  {
+    "comment": "231",
+    "context": "231",
+    "key": "Chest x-ray (if clinically indicated)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chest x-ray (if clinically indicated)",
+    "translation": ""
+  },
+  {
+    "comment": "390",
+    "context": "390",
+    "key": "Insurance available",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Insurance available",
+    "translation": ""
+  },
+  {
+    "comment": "138",
+    "context": "138",
+    "key": "Benefit Payment Term",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Payment Term",
+    "translation": ""
+  },
+  {
+    "comment": "304",
+    "context": "304",
+    "key": "Loss of Passport Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Loss of Passport Cover",
+    "translation": ""
+  },
+  {
+    "comment": "360",
+    "context": "360",
+    "key": "Annual leave traded in hours",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Annual leave traded in hours",
+    "translation": ""
+  },
+  {
+    "comment": "229",
+    "context": "229",
+    "key": "Dynamic cardiovascular test measuring ECG + during activity (if clinically indicated)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dynamic cardiovascular test measuring ECG + during activity (if clinically indicated)",
+    "translation": ""
+  },
+  {
+    "comment": "255",
+    "context": "255",
+    "key": "Kidney Stone and Gout Risk",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Kidney Stone and Gout Risk",
+    "translation": ""
+  },
+  {
+    "comment": "194",
+    "context": "194",
+    "key": "Breast Examination (women)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Breast Examination (women)",
+    "translation": ""
+  },
+  {
+    "comment": "407",
+    "context": "407",
+    "key": "Will holding service",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Will holding service",
+    "translation": ""
+  },
+  {
+    "comment": "188",
+    "context": "188",
+    "key": "General Examination",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "General Examination",
+    "translation": ""
+  },
+  {
+    "comment": "20",
+    "context": "20",
+    "key": "Lab Test (Complex)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lab Test (Complex)",
+    "translation": ""
+  },
+  {
+    "comment": "250",
+    "context": "250",
+    "key": "Excess",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Excess",
+    "translation": ""
+  },
+  {
+    "comment": "49",
+    "context": "49",
+    "key": "Orthodontia Services",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Orthodontia Services",
+    "translation": ""
+  },
+  {
+    "comment": "37",
+    "context": "37",
+    "key": "Death Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Death Benefit",
+    "translation": ""
+  },
+  {
+    "comment": "235",
+    "context": "235",
+    "key": "Testicular examination & guidance on self examination",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Testicular examination & guidance on self examination",
+    "translation": ""
+  },
+  {
+    "comment": "386",
+    "context": "386",
+    "key": "National Insurance savings",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "National Insurance savings",
+    "translation": ""
+  },
+  {
+    "comment": "216",
+    "context": "216",
+    "key": "Thyroid function check",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Thyroid function check",
+    "translation": ""
+  },
+  {
+    "comment": "148",
+    "context": "148",
+    "key": "Maximum Age for Dependants",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Age for Dependants",
+    "translation": ""
+  },
+  {
+    "comment": "193",
+    "context": "193",
+    "key": "PSA Test",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "PSA Test",
+    "translation": ""
+  },
+  {
+    "comment": "384",
+    "context": "384",
+    "key": "Multiple selection opportunities per year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Multiple selection opportunities per year",
+    "translation": ""
+  },
+  {
+    "comment": "309",
+    "context": "309",
+    "key": "Vouchers up to tax free limit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vouchers up to tax free limit",
+    "translation": ""
+  },
+  {
+    "comment": "173",
+    "context": "173",
+    "key": "Restorative treatments (at home or abroad)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Restorative treatments (at home or abroad)",
+    "translation": ""
+  },
+  {
+    "comment": "149",
+    "context": "149",
+    "key": "Maximum Age for Dependants",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Age for Dependants",
+    "translation": ""
+  },
+  {
+    "comment": "80",
+    "context": "80",
+    "key": "Contacts",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Contacts",
+    "translation": ""
+  },
+  {
+    "comment": "128",
+    "context": "128",
+    "key": "Benefit Options",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefit Options",
+    "translation": ""
+  },
+  {
+    "comment": "176",
+    "context": "176",
+    "key": "Maximum number of procedures covered",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of procedures covered",
+    "translation": ""
+  },
+  {
+    "comment": "75",
+    "context": "75",
+    "key": "Network Coverage Rating",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Network Coverage Rating",
+    "translation": ""
+  },
+  {
+    "comment": "54",
+    "context": "54",
+    "key": "AD&D Benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "AD&D Benefits",
+    "translation": ""
+  },
+  {
+    "comment": "94",
+    "context": "94",
+    "key": "Identity Profile Report",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Identity Profile Report",
+    "translation": ""
+  },
+  {
+    "comment": "279",
+    "context": "279",
+    "key": "NHS Cash benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "NHS Cash benefits",
+    "translation": ""
+  },
+  {
+    "comment": "67",
+    "context": "67",
+    "key": "Mental Health Facility",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mental Health Facility",
+    "translation": ""
+  },
+  {
+    "comment": "99",
+    "context": "99",
+    "key": "Room & Board (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Room & Board (Inpatient + Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "159",
+    "context": "159",
+    "key": "Test Type",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Test Type",
+    "translation": ""
+  },
+  {
+    "comment": "215",
+    "context": "215",
+    "key": "Urinalysis to detect infection, diabetes or kidney problems",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Urinalysis to detect infection, diabetes or kidney problems",
+    "translation": ""
+  },
+  {
+    "comment": "288",
+    "context": "288",
+    "key": "NICU coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "NICU coverage",
+    "translation": ""
+  },
+  {
+    "comment": "162",
+    "context": "162",
+    "key": "Scalings",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Scalings",
+    "translation": ""
+  },
+  {
+    "comment": "408",
+    "context": "408",
+    "key": "Trust advice",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Trust advice",
+    "translation": ""
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Coverage Amount (Dismemberment)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount (Dismemberment)",
+    "translation": ""
+  },
+  {
+    "comment": "394",
+    "context": "394",
+    "key": "Use online",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Use online",
+    "translation": ""
+  },
+  {
+    "comment": "424",
+    "context": "424",
+    "key": "Excess",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Excess",
+    "translation": ""
+  },
+  {
+    "comment": "96",
+    "context": "96",
+    "key": "Coverage Maximum (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Inpatient + Outpatient)",
+    "translation": ""
+  },
+  {
+    "comment": "354",
+    "context": "354",
+    "key": "Transfer an existing gym membership",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Transfer an existing gym membership",
+    "translation": ""
+  },
+  {
+    "comment": "65",
+    "context": "65",
+    "key": "Home Testing Kit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Home Testing Kit",
+    "translation": ""
+  },
+  {
+    "comment": "401",
+    "context": "401",
+    "key": "Choice of reds, whites or mixed",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Choice of reds, whites or mixed",
+    "translation": ""
+  },
+  {
+    "comment": "341",
+    "context": "341",
+    "key": "Any registered charity",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Any registered charity",
+    "translation": ""
+  },
+  {
+    "comment": "185",
+    "context": "185",
+    "key": "Personal accident",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal accident",
+    "translation": ""
+  },
+  {
+    "comment": "131",
+    "context": "131",
+    "key": "Maximum Age",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Age",
+    "translation": ""
+  },
+  {
+    "comment": "413",
+    "context": "413",
+    "key": "Select your contribution level",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Select your contribution level",
+    "translation": ""
+  },
+  {
+    "comment": "366",
+    "context": "366",
+    "key": "Maximum number of hours bought",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum number of hours bought",
+    "translation": ""
+  },
+  {
+    "comment": "143",
+    "context": "143",
+    "key": "Exclusions",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Exclusions",
+    "translation": ""
+  },
+  {
+    "comment": "254",
+    "context": "254",
+    "key": "Liver Function",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Liver Function",
+    "translation": ""
+  }
+]

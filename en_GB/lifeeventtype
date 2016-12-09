@@ -1,0 +1,308 @@
+﻿[
+  {
+    "comment": "9 Description",
+    "context": "9 Description",
+    "key": "Spouse Gains Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Gains Coverage Elsewhere",
+    "translation": "Spouse Gains Coverage Elsewhere"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Divorce / Legal Separation",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Divorce / Legal Separation",
+    "translation": "Divorce / Legal Separation"
+  },
+  {
+    "comment": "12 Description",
+    "context": "12 Description",
+    "key": "Child Gains Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Gains Coverage Elsewhere",
+    "translation": "Child Gains Coverage Elsewhere"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Birth",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Birth",
+    "translation": "Birth"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Marriage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Marriage",
+    "translation": "Marriage"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Child Dependent Death",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Dependent Death",
+    "translation": "Child Dependent Death"
+  },
+  {
+    "comment": "13 Description",
+    "context": "13 Description",
+    "key": "Move / Address Change",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Move / Address Change",
+    "translation": "Move / Address Change"
+  },
+  {
+    "comment": "7 Description",
+    "context": "7 Description",
+    "key": "Child Loses Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Loses Coverage Elsewhere",
+    "translation": "Child Loses Coverage Elsewhere"
+  },
+  {
+    "comment": "13",
+    "context": "13",
+    "key": "Move / Address Change",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Move / Address Change",
+    "translation": "Move / Address Change"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Birth",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Birth",
+    "translation": "Birth"
+  },
+  {
+    "comment": "11 Description",
+    "context": "11 Description",
+    "key": "Other",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Other",
+    "translation": "Other"
+  },
+  {
+    "comment": "16 Description",
+    "context": "16 Description",
+    "key": "Dependent Care Provider Change",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dependent Care Provider Change",
+    "translation": "Dependent Care Provider Change"
+  },
+  {
+    "comment": "10 Description",
+    "context": "10 Description",
+    "key": "Spouse Loses Benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Loses Benefits",
+    "translation": "Spouse Loses Benefits"
+  },
+  {
+    "comment": "17",
+    "context": "17",
+    "key": "Change Money Accounts",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Change Money Accounts",
+    "translation": "Change Money Accounts"
+  },
+  {
+    "comment": "14",
+    "context": "14",
+    "key": "Employee Gains Other Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Gains Other Coverage",
+    "translation": "Employee Gains Other Coverage"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Spouse Gains Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Gains Coverage Elsewhere",
+    "translation": "Spouse Gains Coverage Elsewhere"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Other",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Other",
+    "translation": "Other"
+  },
+  {
+    "comment": "16",
+    "context": "16",
+    "key": "Dependent Care Provider Change",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dependent Care Provider Change",
+    "translation": "Dependent Care Provider Change"
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Spouse Death",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Death",
+    "translation": "Spouse Death"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Spouse Loses Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Loses Coverage Elsewhere",
+    "translation": "Spouse Loses Coverage Elsewhere"
+  },
+  {
+    "comment": "15",
+    "context": "15",
+    "key": "Employee Loses Other Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Loses Other Coverage",
+    "translation": "Employee Loses Other Coverage"
+  },
+  {
+    "comment": "15 Description",
+    "context": "15 Description",
+    "key": "Employee Loses Other Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Loses Other Coverage",
+    "translation": "Employee Loses Other Coverage"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Marriage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Marriage",
+    "translation": "Marriage"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Adoption",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Adoption",
+    "translation": "Adoption"
+  },
+  {
+    "comment": "8 Description",
+    "context": "8 Description",
+    "key": "Spouse Loses Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Loses Coverage Elsewhere",
+    "translation": "Spouse Loses Coverage Elsewhere"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Death of a Spouse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Death of a Spouse",
+    "translation": "Death of a Spouse"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Death of a Child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Death of a Child",
+    "translation": "Death of a Child"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Divorce / Annulment / Legal Separation",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Divorce / Annulment / Legal Separation",
+    "translation": "Divorce / Annulment / Legal Separation"
+  },
+  {
+    "comment": "17 Description",
+    "context": "17 Description",
+    "key": "Health Savings Account (HSA) Transit Account 401k Retirement Withholdings",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Savings Account (HSA) Transit Account 401k Retirement Withholdings",
+    "translation": "Health Savings Account (HSA) Transit Account 401k Retirement Withholdings"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Adoption",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Adoption",
+    "translation": "Adoption"
+  },
+  {
+    "comment": "14 Description",
+    "context": "14 Description",
+    "key": "Employee Gains Other Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Gains Other Coverage",
+    "translation": "Employee Gains Other Coverage"
+  },
+  {
+    "comment": "12",
+    "context": "12",
+    "key": "Child Gains Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Gains Coverage Elsewhere",
+    "translation": "Child Gains Coverage Elsewhere"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Child Loses Coverage Elsewhere",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Loses Coverage Elsewhere",
+    "translation": "Child Loses Coverage Elsewhere"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Spouse Loses Benefits",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Loses Benefits",
+    "translation": "Spouse Loses Benefits"
+  }
+]

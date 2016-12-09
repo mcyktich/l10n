@@ -1,0 +1,92 @@
+﻿[
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Widowed",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Widowed",
+    "translation": "喪偶"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Divorced",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Divorced",
+    "translation": "離婚"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Separated",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Separated",
+    "translation": "分居"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Widowed",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Widowed",
+    "translation": "喪偶"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Divorced",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Divorced",
+    "translation": "離婚"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Separated",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Separated",
+    "translation": "分居"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Single",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Single",
+    "translation": "未婚"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Married",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Married",
+    "translation": "已婚"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Single",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Single",
+    "translation": "未婚"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Married",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Married",
+    "translation": "已婚"
+  }
+]

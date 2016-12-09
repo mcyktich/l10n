@@ -1,0 +1,128 @@
+﻿[
+  {
+    "comment": "description 3",
+    "context": "description 3",
+    "key": "Your domestic partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your domestic partner",
+    "translation": "您的国内合作伙伴"
+  },
+  {
+    "comment": "description 8",
+    "context": "description 8",
+    "key": "Your sibling",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your sibling",
+    "translation": "兄弟"
+  },
+  {
+    "comment": "description 1",
+    "context": "description 1",
+    "key": "Yourself",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Yourself",
+    "translation": "您自己"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Domestic Partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Domestic Partner",
+    "translation": "国内合作伙伴"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Self",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Self",
+    "translation": "自己"
+  },
+  {
+    "comment": "description 7",
+    "context": "description 7",
+    "key": "Your parent-in-law",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your parent-in-law",
+    "translation": "您的公婆/岳父母单方"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Spouse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse",
+    "translation": "配偶"
+  },
+  {
+    "comment": "description 2",
+    "context": "description 2",
+    "key": "Your spouse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your spouse",
+    "translation": "您的配偶"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child",
+    "translation": "子女"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Parent",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parent",
+    "translation": "父母单方"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Sibling",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Sibling",
+    "translation": "兄弟姐妹"
+  },
+  {
+    "comment": "description 4",
+    "context": "description 4",
+    "key": "Your child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your child",
+    "translation": "您的子女"
+  },
+  {
+    "comment": "description 6",
+    "context": "description 6",
+    "key": "Your parent",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your parent",
+    "translation": "您的父母单方"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Parent-in-Law",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parent-in-Law",
+    "translation": "公婆/岳父母单方"
+  }
+]

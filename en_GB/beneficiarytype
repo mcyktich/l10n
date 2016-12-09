@@ -1,0 +1,38 @@
+﻿[
+  {
+    "comment": "2 description",
+    "context": "2 description",
+    "key": "Secondary beneficiary",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Secondary beneficiary",
+    "translation": "Contingent Beneficiary"
+  },
+  {
+    "comment": "1 description",
+    "context": "1 description",
+    "key": "Primary beneficiary",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Primary beneficiary",
+    "translation": "Primary beneficiary"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Primary",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Primary",
+    "translation": "Primary"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Contingent",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Contingent",
+    "translation": "Contingent"
+  }
+]

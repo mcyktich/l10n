@@ -1,0 +1,38 @@
+﻿[
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Male",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Male",
+    "translation": "Masculino"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Male Gender",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Male Gender",
+    "translation": "Género Masculino"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Female",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Female",
+    "translation": "Femenino"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Female Gender",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Female Gender",
+    "translation": "Género Femenino"
+  }
+]

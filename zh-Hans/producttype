@@ -1,0 +1,1361 @@
+﻿[
+  {
+    "comment": "161",
+    "context": "161",
+    "key": "Optical - Child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Optical - Child",
+    "translation": "光-儿童"
+  },
+  {
+    "comment": "27",
+    "context": "27",
+    "key": "Health Credit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Credit",
+    "translation": "健康信用"
+  },
+  {
+    "comment": "61",
+    "context": "61",
+    "key": "Employee Travel Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Travel Insurance",
+    "translation": "雇员旅行保险"
+  },
+  {
+    "comment": "151",
+    "context": "151",
+    "key": "Group Preferred Care Plus (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Preferred Care Plus (2)",
+    "translation": "团体优先照顾外加（2）"
+  },
+  {
+    "comment": "159",
+    "context": "159",
+    "key": "GTL Employee",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "GTL Employee",
+    "translation": "GTL 员工"
+  },
+  {
+    "comment": "165",
+    "context": "165",
+    "key": "Annual Medical Check-up",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Annual Medical Check-up",
+    "translation": "年度体检"
+  },
+  {
+    "comment": "71",
+    "context": "71",
+    "key": "Lifescan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lifescan",
+    "translation": "生命扫描"
+  },
+  {
+    "comment": "129",
+    "context": "129",
+    "key": "Medical Check-up (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical Check-up (1)",
+    "translation": "体检（1）"
+  },
+  {
+    "comment": "66",
+    "context": "66",
+    "key": "Critical Illness - Employee & Partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Critical Illness - Employee & Partner",
+    "translation": "重大疾病-雇员和合作伙伴"
+  },
+  {
+    "comment": "17",
+    "context": "17",
+    "key": "Health Coaching",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Coaching",
+    "translation": "健康教练"
+  },
+  {
+    "comment": "86",
+    "context": "86",
+    "key": "Retail Vouchers, VIP and Spree Card",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Retail Vouchers, VIP and Spree Card",
+    "translation": "零售券，贵宾卡和狂欢卡"
+  },
+  {
+    "comment": "150",
+    "context": "150",
+    "key": "Group Preferred Care Plus (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Preferred Care Plus (1)",
+    "translation": "团体优先照顾外加（1）"
+  },
+  {
+    "comment": "118",
+    "context": "118",
+    "key": "Group Occupational Hazard - Employee",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Occupational Hazard - Employee",
+    "translation": "团体职业危害-雇员"
+  },
+  {
+    "comment": "174",
+    "context": "174",
+    "key": "Vacation Expenses",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vacation Expenses",
+    "translation": "度假费用"
+  },
+  {
+    "comment": "114",
+    "context": "114",
+    "key": "Specific Accidental Death & Dismemberment (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Specific Accidental Death & Dismemberment (1)",
+    "translation": "具体的意外死亡及残疾（1）"
+  },
+  {
+    "comment": "65",
+    "context": "65",
+    "key": "Income Protection",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Income Protection",
+    "translation": "收入保护"
+  },
+  {
+    "comment": "125",
+    "context": "125",
+    "key": "Medical (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical (2)",
+    "translation": "医疗（2）"
+  },
+  {
+    "comment": "146",
+    "context": "146",
+    "key": "Cancer Insurance (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (4)",
+    "translation": "癌症保险（4）"
+  },
+  {
+    "comment": "37",
+    "context": "37",
+    "key": "Employer-Paid LTD",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer-Paid LTD",
+    "translation": "雇主支付的长期失能"
+  },
+  {
+    "comment": "46",
+    "context": "46",
+    "key": "Personal Accident (ADD)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal Accident (ADD)",
+    "translation": "个人事故（'意外死亡和伤残）"
+  },
+  {
+    "comment": "44",
+    "context": "44",
+    "key": "Spouse Critical Illness Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Critical Illness Insurance",
+    "translation": "配偶重大疾病保险"
+  },
+  {
+    "comment": "164",
+    "context": "164",
+    "key": "Maternity Benefit - Partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maternity Benefit - Partner",
+    "translation": "生育津贴-合作伙伴"
+  },
+  {
+    "comment": "88",
+    "context": "88",
+    "key": "Will Writing",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Will Writing",
+    "translation": "遗嘱书写"
+  },
+  {
+    "comment": "30",
+    "context": "30",
+    "key": "Spouse Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Life Insurance",
+    "translation": "配偶人寿保险"
+  },
+  {
+    "comment": "131",
+    "context": "131",
+    "key": "Medical Check-up (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical Check-up (3)",
+    "translation": "体检（3）"
+  },
+  {
+    "comment": "57",
+    "context": "57",
+    "key": "Spouse Medical Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Medical Insurance",
+    "translation": "配偶医疗保险"
+  },
+  {
+    "comment": "123",
+    "context": "123",
+    "key": "Term Insurance with Hospital Income (5)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term Insurance with Hospital Income (5)",
+    "translation": "有医院收入的定期保险（5）"
+  },
+  {
+    "comment": "85",
+    "context": "85",
+    "key": "Mobile Phone",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mobile Phone",
+    "translation": "移动电话"
+  },
+  {
+    "comment": "74",
+    "context": "74",
+    "key": "Hospital Treatment Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Treatment Plan",
+    "translation": "医院治疗计划"
+  },
+  {
+    "comment": "142",
+    "context": "142",
+    "key": "Cancer (First Time Diagnosed) (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer (First Time Diagnosed) (3)",
+    "translation": "癌症（第一次诊断）（3）"
+  },
+  {
+    "comment": "158",
+    "context": "158",
+    "key": "Group Crisis Cover",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Crisis Cover",
+    "translation": "集团危机盖"
+  },
+  {
+    "comment": "171",
+    "context": "171",
+    "key": "Lifestyle Reimbursement Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lifestyle Reimbursement Account",
+    "translation": "生活方式偿还账户"
+  },
+  {
+    "comment": "33",
+    "context": "33",
+    "key": "Individual Disability Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Individual Disability Insurance",
+    "translation": "个人伤残保险爱女"
+  },
+  {
+    "comment": "121",
+    "context": "121",
+    "key": "Term Insurance with Hospital Income (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term Insurance with Hospital Income (3)",
+    "translation": "有医院收入的定期保险（3）"
+  },
+  {
+    "comment": "163",
+    "context": "163",
+    "key": "Maternity Benefit - Employee",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maternity Benefit - Employee",
+    "translation": "生育津贴-员工"
+  },
+  {
+    "comment": "110",
+    "context": "110",
+    "key": "Group Accidental Death & Disablement (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Accidental Death & Disablement (2)",
+    "translation": "团体意外死亡和伤残（2）"
+  },
+  {
+    "comment": "162",
+    "context": "162",
+    "key": "Dental & Optical",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental & Optical",
+    "translation": "牙科和光学"
+  },
+  {
+    "comment": "56",
+    "context": "56",
+    "key": "Child Medical Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Medical Insurance",
+    "translation": "子女医疗保险"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Vision Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vision Insurance",
+    "translation": "视力保险"
+  },
+  {
+    "comment": "82",
+    "context": "82",
+    "key": "Gym Membership",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Gym Membership",
+    "translation": "健身房会员"
+  },
+  {
+    "comment": "64",
+    "context": "64",
+    "key": "Health Care Transparency Tool",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Care Transparency Tool",
+    "translation": "保健透明工具"
+  },
+  {
+    "comment": "154",
+    "context": "154",
+    "key": "Wellness (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wellness (2)",
+    "translation": "健康（2）"
+  },
+  {
+    "comment": "128",
+    "context": "128",
+    "key": "Medical (5)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical (5)",
+    "translation": "医疗（5）"
+  },
+  {
+    "comment": "32",
+    "context": "32",
+    "key": "AD&D",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "AD&D",
+    "translation": "意外死亡和伤残"
+  },
+  {
+    "comment": "78",
+    "context": "78",
+    "key": "Childcare Vouchers",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Childcare Vouchers",
+    "translation": "托儿券"
+  },
+  {
+    "comment": "145",
+    "context": "145",
+    "key": "Cancer Insurance (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (3)",
+    "translation": "癌症保险（3）"
+  },
+  {
+    "comment": "148",
+    "context": "148",
+    "key": "Cancer Insurance (6)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (6)",
+    "translation": "癌症保险（6）"
+  },
+  {
+    "comment": "24",
+    "context": "24",
+    "key": "Transit Flexible Spending Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Transit Flexible Spending Account",
+    "translation": "运送灵活支出帐户"
+  },
+  {
+    "comment": "70",
+    "context": "70",
+    "key": "International Medical Benefit",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "International Medical Benefit",
+    "translation": "国际医疗福利"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Private Medical",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Private Medical",
+    "translation": "私人医疗"
+  },
+  {
+    "comment": "25",
+    "context": "25",
+    "key": "401(k) Retirement Savings Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "401(k) Retirement Savings Account",
+    "translation": "401（k）退休储蓄帐户"
+  },
+  {
+    "comment": "153",
+    "context": "153",
+    "key": "Wellness (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wellness (1)",
+    "translation": "健康（1）"
+  },
+  {
+    "comment": "76",
+    "context": "76",
+    "key": "Maternity Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maternity Coverage",
+    "translation": "生育保险"
+  },
+  {
+    "comment": "140",
+    "context": "140",
+    "key": "Cancer (First Time Diagnosed) (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer (First Time Diagnosed) (1)",
+    "translation": "癌症（第一次诊断）（1）"
+  },
+  {
+    "comment": "141",
+    "context": "141",
+    "key": "Cancer (First Time Diagnosed) (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer (First Time Diagnosed) (2)",
+    "translation": "癌症（第一次诊断）（2）"
+  },
+  {
+    "comment": "23",
+    "context": "23",
+    "key": "Parking Flexible Spending Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parking Flexible Spending Account",
+    "translation": "停车灵活支出帐户"
+  },
+  {
+    "comment": "12",
+    "context": "12",
+    "key": "Hospital Indemnity",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Indemnity",
+    "translation": "医院赔偿"
+  },
+  {
+    "comment": "53",
+    "context": "53",
+    "key": "Employer-Paid AD&D Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer-Paid AD&D Insurance",
+    "translation": "雇主支付的意外死亡和伤残保险"
+  },
+  {
+    "comment": "50",
+    "context": "50",
+    "key": "PTO Buy Up",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "PTO Buy Up",
+    "translation": "带薪假任意买"
+  },
+  {
+    "comment": "69",
+    "context": "69",
+    "key": "Health Assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Assessment",
+    "translation": "健康评估"
+  },
+  {
+    "comment": "93",
+    "context": "93",
+    "key": "Personal Excess Liability Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal Excess Liability Coverage",
+    "translation": "個人超額責任險"
+  },
+  {
+    "comment": "160",
+    "context": "160",
+    "key": "Optical - Partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Optical - Partner",
+    "translation": "光-合作伙伴"
+  },
+  {
+    "comment": "84",
+    "context": "84",
+    "key": "Home Computing",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Home Computing",
+    "translation": "家用电脑"
+  },
+  {
+    "comment": "36",
+    "context": "36",
+    "key": "Short Term Disability Ins.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Short Term Disability Ins.",
+    "translation": "短期残疾保险"
+  },
+  {
+    "comment": "90",
+    "context": "90",
+    "key": "Pension (DC)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Pension (DC)",
+    "translation": "退休金 （DC）"
+  },
+  {
+    "comment": "55",
+    "context": "55",
+    "key": "Spouse & Child Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse & Child Life Insurance",
+    "translation": "配偶和子女人寿保险"
+  },
+  {
+    "comment": "28",
+    "context": "28",
+    "key": "Employer-Paid Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer-Paid Life Insurance",
+    "translation": "雇主支付的人寿保险"
+  },
+  {
+    "comment": "35",
+    "context": "35",
+    "key": "Short Term Disability",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Short Term Disability",
+    "translation": "短期残疾"
+  },
+  {
+    "comment": "130",
+    "context": "130",
+    "key": "Medical Check-up (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical Check-up (2)",
+    "translation": "体检（2）"
+  },
+  {
+    "comment": "157",
+    "context": "157",
+    "key": "Wellness (5)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wellness (5)",
+    "translation": "健康（5）"
+  },
+  {
+    "comment": "22",
+    "context": "22",
+    "key": "Dependent Care Flexible Spending Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dependent Care Flexible Spending Account",
+    "translation": "受扶养人护理灵活支出帐户"
+  },
+  {
+    "comment": "87",
+    "context": "87",
+    "key": "Wine Club",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wine Club",
+    "translation": "葡萄酒俱乐部"
+  },
+  {
+    "comment": "136",
+    "context": "136",
+    "key": "Accidental Medical Reimbursement (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Accidental Medical Reimbursement (1)",
+    "translation": "意外医疗报销（1）"
+  },
+  {
+    "comment": "83",
+    "context": "83",
+    "key": "Holiday Trading",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Holiday Trading",
+    "translation": "假期交易"
+  },
+  {
+    "comment": "39",
+    "context": "39",
+    "key": "Long Term Care",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Long Term Care",
+    "translation": "长期护理"
+  },
+  {
+    "comment": "120",
+    "context": "120",
+    "key": "Term Insurance with Hospital Income (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term Insurance with Hospital Income (2)",
+    "translation": "有医院收入的定期保险（2）"
+  },
+  {
+    "comment": "52",
+    "context": "52",
+    "key": "Chiropractic Services",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chiropractic Services",
+    "translation": "按摩服务"
+  },
+  {
+    "comment": "19",
+    "context": "19",
+    "key": "Health Savings Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Savings Account",
+    "translation": "健康储蓄账户"
+  },
+  {
+    "comment": "113",
+    "context": "113",
+    "key": "Term Life - Parents",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term Life - Parents",
+    "translation": "长期生活-父母"
+  },
+  {
+    "comment": "111",
+    "context": "111",
+    "key": "Group Critical Illness Medical Self-pay Expense (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Critical Illness Medical Self-pay Expense (1)",
+    "translation": "团体重大疾病医疗自费费用（1）"
+  },
+  {
+    "comment": "124",
+    "context": "124",
+    "key": "Medical (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical (1)",
+    "translation": "医疗（1）"
+  },
+  {
+    "comment": "147",
+    "context": "147",
+    "key": "Cancer Insurance (5)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (5)",
+    "translation": "癌症保险（5）"
+  },
+  {
+    "comment": "156",
+    "context": "156",
+    "key": "Wellness (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wellness (4)",
+    "translation": "健康（4）"
+  },
+  {
+    "comment": "138",
+    "context": "138",
+    "key": "Accidental Medical Reimbursement (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Accidental Medical Reimbursement (3)",
+    "translation": "意外医疗报销（3）"
+  },
+  {
+    "comment": "166",
+    "context": "166",
+    "key": "Health Care Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Care Plan",
+    "translation": "健康保健计划"
+  },
+  {
+    "comment": "115",
+    "context": "115",
+    "key": "Specific Accidental Death & Dismemberment (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Specific Accidental Death & Dismemberment (2)",
+    "translation": "具体的意外死亡及残疾（2）"
+  },
+  {
+    "comment": "91",
+    "context": "91",
+    "key": "Share Incentive Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Share Incentive Plan",
+    "translation": "股权激励计划"
+  },
+  {
+    "comment": "54",
+    "context": "54",
+    "key": "Family AD&D Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Family AD&D Insurance",
+    "translation": "家庭意外死亡和伤残保险"
+  },
+  {
+    "comment": "134",
+    "context": "134",
+    "key": "Outpatient Chronic Illness",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Outpatient Chronic Illness",
+    "translation": "门诊慢性病"
+  },
+  {
+    "comment": "172",
+    "context": "172",
+    "key": "Employee Flex Dollars",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Flex Dollars",
+    "translation": "年度体检"
+  },
+  {
+    "comment": "18",
+    "context": "18",
+    "key": "Health Discount Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Discount Plan",
+    "translation": "健康优惠计划"
+  },
+  {
+    "comment": "14",
+    "context": "14",
+    "key": "Cancer Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance",
+    "translation": "癌症保险"
+  },
+  {
+    "comment": "89",
+    "context": "89",
+    "key": "Pension (DB)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Pension (DB)",
+    "translation": "退休金（DB）"
+  },
+  {
+    "comment": "173",
+    "context": "173",
+    "key": "Club Membership",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Club Membership",
+    "translation": "俱乐部会员"
+  },
+  {
+    "comment": "73",
+    "context": "73",
+    "key": "Travel",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Travel",
+    "translation": "旅行"
+  },
+  {
+    "comment": "45",
+    "context": "45",
+    "key": "Child Critical Illness Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Critical Illness Insurance",
+    "translation": "子女重大疾病保险"
+  },
+  {
+    "comment": "137",
+    "context": "137",
+    "key": "Accidental Medical Reimbursement (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Accidental Medical Reimbursement (2)",
+    "translation": "意外医疗报销（2）"
+  },
+  {
+    "comment": "167",
+    "context": "167",
+    "key": "QHMS Check-up Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "QHMS Check-up Plan",
+    "translation": "QHMS 检查计划"
+  },
+  {
+    "comment": "109",
+    "context": "109",
+    "key": "Group Accidental Death & Disablement (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Accidental Death & Disablement (1)",
+    "translation": "团体意外死亡和伤残（1）"
+  },
+  {
+    "comment": "62",
+    "context": "62",
+    "key": "Total and Permanent Disability",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Total and Permanent Disability",
+    "translation": "全部和永久性残疾"
+  },
+  {
+    "comment": "77",
+    "context": "77",
+    "key": "Gadget",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Gadget",
+    "translation": "小配件"
+  },
+  {
+    "comment": "48",
+    "context": "48",
+    "key": "Child AD&D Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child AD&D Insurance",
+    "translation": "子女意外死亡和伤残保险"
+  },
+  {
+    "comment": "47",
+    "context": "47",
+    "key": "Spouse AD&D Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse AD&D Insurance",
+    "translation": "配偶意外死亡和伤残保险"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Dental",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental",
+    "translation": "牙科"
+  },
+  {
+    "comment": "41",
+    "context": "41",
+    "key": "Child Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child Life Insurance",
+    "translation": "子女人寿保险"
+  },
+  {
+    "comment": "116",
+    "context": "116",
+    "key": "Specific Accidental Death & Dismemberment (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Specific Accidental Death & Dismemberment (3)",
+    "translation": "具体的意外死亡及残疾（3）"
+  },
+  {
+    "comment": "63",
+    "context": "63",
+    "key": "Personal Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal Life Insurance",
+    "translation": "个人人寿保险"
+  },
+  {
+    "comment": "20",
+    "context": "20",
+    "key": "Medical Flexible Spending Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical Flexible Spending Account",
+    "translation": "医疗灵活支出账户"
+  },
+  {
+    "comment": "68",
+    "context": "68",
+    "key": "Health Cash Plan (with Hospital Treatment Plan)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Cash Plan (with Hospital Treatment Plan)",
+    "translation": "健康现金计划（带医疗治疗计划）"
+  },
+  {
+    "comment": "29",
+    "context": "29",
+    "key": "Employee Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Life Insurance",
+    "translation": "雇员人寿保险"
+  },
+  {
+    "comment": "43",
+    "context": "43",
+    "key": "Prescription Drug Coverage",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Prescription Drug Coverage",
+    "translation": "处方药保险"
+  },
+  {
+    "comment": "79",
+    "context": "79",
+    "key": "Dining Card",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dining Card",
+    "translation": "就餐卡"
+  },
+  {
+    "comment": "144",
+    "context": "144",
+    "key": "Cancer Insurance (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (2)",
+    "translation": "癌症保险（2）"
+  },
+  {
+    "comment": "31",
+    "context": "31",
+    "key": "Dependent Life Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dependent Life Insurance",
+    "translation": "受扶养人人寿保险"
+  },
+  {
+    "comment": "143",
+    "context": "143",
+    "key": "Cancer Insurance (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (1)",
+    "translation": "癌症保险（1）"
+  },
+  {
+    "comment": "139",
+    "context": "139",
+    "key": "Accidental Medical Reimbursement (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Accidental Medical Reimbursement (4)",
+    "translation": "意外医疗报销（4）"
+  },
+  {
+    "comment": "21",
+    "context": "21",
+    "key": "Health Reimbursement Account",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Reimbursement Account",
+    "translation": "医疗报销帐户"
+  },
+  {
+    "comment": "127",
+    "context": "127",
+    "key": "Medical (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical (4)",
+    "translation": "医疗（4）"
+  },
+  {
+    "comment": "67",
+    "context": "67",
+    "key": "Cancer Screening",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Screening",
+    "translation": "癌症筛查"
+  },
+  {
+    "comment": "126",
+    "context": "126",
+    "key": "Medical (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical (3)",
+    "translation": "医疗（3）"
+  },
+  {
+    "comment": "80",
+    "context": "80",
+    "key": "Cycle 2 Work",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cycle 2 Work",
+    "translation": "2工作周期"
+  },
+  {
+    "comment": "34",
+    "context": "34",
+    "key": "Employer-Paid STD",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer-Paid STD",
+    "translation": "雇主支付的性病"
+  },
+  {
+    "comment": "132",
+    "context": "132",
+    "key": "Medical Check-up (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical Check-up (4)",
+    "translation": "体检（4）"
+  },
+  {
+    "comment": "59",
+    "context": "59",
+    "key": "Spouse Health Cash Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Health Cash Plan",
+    "translation": "配偶健康现金计划"
+  },
+  {
+    "comment": "13",
+    "context": "13",
+    "key": "Personal Accident",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Personal Accident",
+    "translation": "个人意外"
+  },
+  {
+    "comment": "60",
+    "context": "60",
+    "key": "Employee Health Cash Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Health Cash Plan",
+    "translation": "雇员健康现金计划"
+  },
+  {
+    "comment": "26",
+    "context": "26",
+    "key": "403(B)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "403(B)",
+    "translation": "403(B)"
+  },
+  {
+    "comment": "152",
+    "context": "152",
+    "key": "Group Preferred Care Plus (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Preferred Care Plus (3)",
+    "translation": "团体优先照顾外加（3）"
+  },
+  {
+    "comment": "40",
+    "context": "40",
+    "key": "Pet Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Pet Insurance",
+    "translation": "宠物保险"
+  },
+  {
+    "comment": "122",
+    "context": "122",
+    "key": "Term Insurance with Hospital Income (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term Insurance with Hospital Income (4)",
+    "translation": "有医院收入的定期保险（4）"
+  },
+  {
+    "comment": "16",
+    "context": "16",
+    "key": "Telemedicine",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Telemedicine",
+    "translation": "远程医疗"
+  },
+  {
+    "comment": "133",
+    "context": "133",
+    "key": "Medical Check-up (5)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Medical Check-up (5)",
+    "translation": "体检（5）"
+  },
+  {
+    "comment": "112",
+    "context": "112",
+    "key": "Group Critical Illness Medical Self-pay Expense (2)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Group Critical Illness Medical Self-pay Expense (2)",
+    "translation": "团体重大疾病医疗自费费用（2）"
+  },
+  {
+    "comment": "170",
+    "context": "170",
+    "key": "Employee Assistance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Assistance",
+    "translation": "员工援助"
+  },
+  {
+    "comment": "155",
+    "context": "155",
+    "key": "Wellness (3)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Wellness (3)",
+    "translation": "健康（3）"
+  },
+  {
+    "comment": "119",
+    "context": "119",
+    "key": "Term Insurance with Hospital Income (1)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Term Insurance with Hospital Income (1)",
+    "translation": "有医院收入的定期保险（1）"
+  },
+  {
+    "comment": "72",
+    "context": "72",
+    "key": "Optical Benefit Schedule",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Optical Benefit Schedule",
+    "translation": "视力福利计划"
+  },
+  {
+    "comment": "169",
+    "context": "169",
+    "key": "Funeral Expenses",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Funeral Expenses",
+    "translation": "殡殓费"
+  },
+  {
+    "comment": "149",
+    "context": "149",
+    "key": "Cancer Insurance (7)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Cancer Insurance (7)",
+    "translation": "癌症保险（7）"
+  },
+  {
+    "comment": "15",
+    "context": "15",
+    "key": "Critical Illness Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Critical Illness Insurance",
+    "translation": "重大疾病保险"
+  },
+  {
+    "comment": "168",
+    "context": "168",
+    "key": "Private Medical - Family Package",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Private Medical - Family Package",
+    "translation": "私人医疗-家庭套餐"
+  },
+  {
+    "comment": "42",
+    "context": "42",
+    "key": "Legal Plans",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Legal Plans",
+    "translation": "合法计划"
+  },
+  {
+    "comment": "38",
+    "context": "38",
+    "key": "Long Term Disability",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Long Term Disability",
+    "translation": "长期残疾"
+  },
+  {
+    "comment": "49",
+    "context": "49",
+    "key": "Identity Theft Protection",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Identity Theft Protection",
+    "translation": "身份盗窃保护"
+  },
+  {
+    "comment": "135",
+    "context": "135",
+    "key": "Outpatient Specialist",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Outpatient Specialist",
+    "translation": "专家门诊"
+  },
+  {
+    "comment": "117",
+    "context": "117",
+    "key": "Specific Accidental Death & Dismemberment (4)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Specific Accidental Death & Dismemberment (4)",
+    "translation": "具体的意外死亡及残疾（4）"
+  },
+  {
+    "comment": "75",
+    "context": "75",
+    "key": "Hospital Cash Plan",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Hospital Cash Plan",
+    "translation": "医院现金计划"
+  },
+  {
+    "comment": "58",
+    "context": "58",
+    "key": "Employee Health Assessment",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Health Assessment",
+    "translation": "雇员健康评估"
+  },
+  {
+    "comment": "51",
+    "context": "51",
+    "key": "Auto / Home Insurance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Auto / Home Insurance",
+    "translation": "汽车/家庭保险"
+  },
+  {
+    "comment": "81",
+    "context": "81",
+    "key": "Give As You Earn",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Give As You Earn",
+    "translation": "现赚现给"
+  },
+  {
+    "comment": "92",
+    "context": "92",
+    "key": "Work Place ISA Savings",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Work Place ISA Savings",
+    "translation": "工作地点ISA储蓄"
+  }
+]

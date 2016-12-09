@@ -1,0 +1,92 @@
+﻿[
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Work",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Work",
+    "translation": "工作"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Billing",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Billing",
+    "translation": "帳單"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Beneficiary Address type",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Beneficiary Address type",
+    "translation": "受益人地址"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Home",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Home",
+    "translation": "住所"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "A vaction property address.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "A vaction property address.",
+    "translation": "假日"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Billing",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Billing",
+    "translation": "帳單"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Work",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Work",
+    "translation": "工作"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Residence",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Residence",
+    "translation": "住所"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Vacation",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vacation",
+    "translation": "假日"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Beneficiary Address",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Beneficiary Address",
+    "translation": "受益人地址"
+  }
+]

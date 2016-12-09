@@ -1,0 +1,272 @@
+﻿[
+  {
+    "comment": "11 Description",
+    "context": "11 Description",
+    "key": "Coverage for the employee and three dependents.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and three dependents.",
+    "translation": "雇員和三個受撫養人承保水准"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Coverage for the employee and the employee's spouse.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and the employee's spouse.",
+    "translation": "雇員和配偶承保水准"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Employee Only",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee Only",
+    "translation": "僅雇員"
+  },
+  {
+    "comment": "8 Description",
+    "context": "8 Description",
+    "key": "Coverage for the employee and one or more dependent children.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and one or more dependent children.",
+    "translation": "雇員和子女承保水准"
+  },
+  {
+    "comment": "9 Description",
+    "context": "9 Description",
+    "key": "Coverage for the employee and one dependent.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and one dependent.",
+    "translation": "雇員和一個受撫養人承保水准"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Employee + 2 Children",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + 2 Children",
+    "translation": "雇員+兩個子女"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Employee + Child(ren)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + Child(ren)",
+    "translation": "雇員+子女"
+  },
+  {
+    "comment": "12",
+    "context": "12",
+    "key": "Employee + Family",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + Family",
+    "translation": "雇員+家人"
+  },
+  {
+    "comment": "10 Description",
+    "context": "10 Description",
+    "key": "Coverage for the employee and two dependents.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and two dependents.",
+    "translation": "雇員和兩個受撫養人承保水准"
+  },
+  {
+    "comment": "24",
+    "context": "24",
+    "key": "Parents-in-Law Only",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parents-in-Law Only",
+    "translation": "僅公婆/嶽父母"
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Coverage for the employee and two dependent children.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and two dependent children.",
+    "translation": "雇員和兩個子女承保水准"
+  },
+  {
+    "comment": "24 Description",
+    "context": "24 Description",
+    "key": "Coverage for parent-in-laws only.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for parent-in-laws only.",
+    "translation": "僅公婆/嶽父母承保"
+  },
+  {
+    "comment": "21",
+    "context": "21",
+    "key": "Child(ren) Only",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child(ren) Only",
+    "translation": "僅子女"
+  },
+  {
+    "comment": "7 Description",
+    "context": "7 Description",
+    "key": "Coverage for the employee and three dependent children.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and three dependent children.",
+    "translation": "雇員和三個子女承保水准"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Employee + 3 Children",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + 3 Children",
+    "translation": "雇員+三個子女"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Employee + 3 Dependents",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + 3 Dependents",
+    "translation": "雇員+三個受撫養人"
+  },
+  {
+    "comment": "23",
+    "context": "23",
+    "key": "Employee + Spouse + Family",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + Spouse + Family",
+    "translation": "雇員+配偶+家人"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Employee + 2 Dependents",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + 2 Dependents",
+    "translation": "雇員+兩個受撫養人"
+  },
+  {
+    "comment": "21 Description",
+    "context": "21 Description",
+    "key": "Coverage for the children only.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the children only.",
+    "translation": "僅子女承保"
+  },
+  {
+    "comment": "12 Description",
+    "context": "12 Description",
+    "key": "Coverage for the employee and the employee's spouse and child dependents.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and the employee's spouse and child dependents.",
+    "translation": "雇員和家人承保水准"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Employee + 1 Child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + 1 Child",
+    "translation": "雇員+一個子女"
+  },
+  {
+    "comment": "22 Description",
+    "context": "22 Description",
+    "key": "Coverage for the spouse and children only.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the spouse and children only.",
+    "translation": "配偶和子女承保"
+  },
+  {
+    "comment": "20",
+    "context": "20",
+    "key": "Spouse Only",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse Only",
+    "translation": "僅配偶"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Coverage for the employee and one dependent child.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee and one dependent child.",
+    "translation": "雇員和一個子女承保水准"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Employee + 1 Dependent",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + 1 Dependent",
+    "translation": "雇員+一個受撫養人"
+  },
+  {
+    "comment": "22",
+    "context": "22",
+    "key": "Spouse + Child(ren)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse + Child(ren)",
+    "translation": "配偶+子女"
+  },
+  {
+    "comment": "23 Description",
+    "context": "23 Description",
+    "key": "Coverage for the Employee, Spouse and the rest of the family.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the Employee, Spouse and the rest of the family.",
+    "translation": "雇员，配偶和家人承保"
+  },
+  {
+    "comment": "20 Description",
+    "context": "20 Description",
+    "key": "Coverage for the spouse only.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the spouse only.",
+    "translation": "僅配偶承保"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Coverage for the employee only.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage for the employee only.",
+    "translation": "僅雇員承保水准"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Employee + Spouse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employee + Spouse",
+    "translation": "雇員+配偶"
+  }
+]

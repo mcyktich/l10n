@@ -1,0 +1,164 @@
+﻿[
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Mrs.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mrs.",
+    "translation": "Mrs."
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Mister",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mister",
+    "translation": "Mister"
+  },
+  {
+    "comment": "10 Description",
+    "context": "10 Description",
+    "key": "Miss",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Miss",
+    "translation": "Miss"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Misses",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Misses",
+    "translation": "Misses"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Doctor",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Doctor",
+    "translation": "Doctor"
+  },
+  {
+    "comment": "8 Description",
+    "context": "8 Description",
+    "key": "Reverend",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Reverend",
+    "translation": "Reverend"
+  },
+  {
+    "comment": "9 Description",
+    "context": "9 Description",
+    "key": "Father",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Father",
+    "translation": "Father"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Col.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Col.",
+    "translation": "Col."
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Father",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Father",
+    "translation": "Father"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Dr.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dr.",
+    "translation": "Dr."
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Ms.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Ms.",
+    "translation": "Ms."
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Mr.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mr.",
+    "translation": "Mr."
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Miss",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Miss",
+    "translation": "Miss"
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Colonel",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Colonel",
+    "translation": "Colonel"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Miss",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Miss",
+    "translation": "Miss"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Rev.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Rev.",
+    "translation": "Rev."
+  },
+  {
+    "comment": "7 Description",
+    "context": "7 Description",
+    "key": "Professor",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Professor",
+    "translation": "Professor"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Prof.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Prof.",
+    "translation": "Prof."
+  }
+]

@@ -1,0 +1,110 @@
+﻿[
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Home",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Home",
+    "translation": ""
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "BrokerFax",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "BrokerFax",
+    "translation": ""
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Fax number",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Fax number",
+    "translation": ""
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Broker fax number",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Broker fax number",
+    "translation": ""
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Mobile/Cellular phone number",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mobile/Cellular phone number",
+    "translation": ""
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Fax",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Fax",
+    "translation": ""
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Work",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Work",
+    "translation": ""
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Mobile",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Mobile",
+    "translation": ""
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Phone number at home",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Phone number at home",
+    "translation": ""
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Broker phone number",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Broker phone number",
+    "translation": ""
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Phone number at work",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Phone number at work",
+    "translation": ""
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "BrokerPhone",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "BrokerPhone",
+    "translation": ""
+  }
+]

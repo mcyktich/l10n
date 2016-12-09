@@ -1,0 +1,65 @@
+﻿[
+  {
+    "comment": "Chinese (Simplified)",
+    "context": "Chinese (Simplified)",
+    "key": "Chinese (Simplified)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chinese (Simplified)",
+    "translation": ""
+  },
+  {
+    "comment": "English-US",
+    "context": "English-US",
+    "key": "English",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "English",
+    "translation": ""
+  },
+  {
+    "comment": "English-UK",
+    "context": "English-UK",
+    "key": "English (UK)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "English (UK)",
+    "translation": ""
+  },
+  {
+    "comment": "Chinese (Traditional)",
+    "context": "Chinese (Traditional)",
+    "key": "Chinese (Traditional)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Chinese (Traditional)",
+    "translation": "中文(香港)"
+  },
+  {
+    "comment": "Spanish",
+    "context": "Spanish",
+    "key": "Spanish",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spanish",
+    "translation": ""
+  },
+  {
+    "comment": "Vietnamese",
+    "context": "Vietnamese",
+    "key": "Vietnamese",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Vietnamese",
+    "translation": ""
+  },
+  {
+    "comment": "Korean",
+    "context": "Korean",
+    "key": "Korean",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Korean",
+    "translation": ""
+  }
+]

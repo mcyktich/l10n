@@ -1,0 +1,29 @@
+﻿[
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Year Month Day",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Year Month Day",
+    "translation": "Year Month Day"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Day Month Year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Day Month Year",
+    "translation": "Day Month Year"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Month Day Year",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Month Day Year",
+    "translation": "Month Day Year"
+  }
+]

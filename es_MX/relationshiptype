@@ -1,0 +1,128 @@
+﻿[
+  {
+    "comment": "description 3",
+    "context": "description 3",
+    "key": "Your domestic partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your domestic partner",
+    "translation": "Tu concubino(a)"
+  },
+  {
+    "comment": "description 8",
+    "context": "description 8",
+    "key": "Your sibling",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your sibling",
+    "translation": "Su hermano"
+  },
+  {
+    "comment": "description 1",
+    "context": "description 1",
+    "key": "Yourself",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Yourself",
+    "translation": "Tú"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Domestic Partner",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Domestic Partner",
+    "translation": "Concubino(a)"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Self",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Self",
+    "translation": "Yo mismo(a)"
+  },
+  {
+    "comment": "description 7",
+    "context": "description 7",
+    "key": "Your parent-in-law",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your parent-in-law",
+    "translation": "Tu suegro(a)"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Spouse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Spouse",
+    "translation": "Cónyuge"
+  },
+  {
+    "comment": "description 2",
+    "context": "description 2",
+    "key": "Your spouse",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your spouse",
+    "translation": "Tu cónyuge"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Child",
+    "translation": "Hijo(a)"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Parent",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parent",
+    "translation": "Padre/ Madre / Tutor"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Sibling",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Sibling",
+    "translation": "Hermano"
+  },
+  {
+    "comment": "description 4",
+    "context": "description 4",
+    "key": "Your child",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your child",
+    "translation": "Tu hijo"
+  },
+  {
+    "comment": "description 6",
+    "context": "description 6",
+    "key": "Your parent",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your parent",
+    "translation": "Tu Padre / Madre / Tutor"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Parent-in-Law",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Parent-in-Law",
+    "translation": "Suegro(a)"
+  }
+]

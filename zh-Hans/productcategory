@@ -1,0 +1,92 @@
+﻿[
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Protection",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Protection",
+    "translation": "保护"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Products provided by employer",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Products provided by employer",
+    "translation": "由雇主提供的产品"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Health category.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health category.",
+    "translation": "健康"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Life Style Category",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Life Style Category",
+    "translation": "生活方式"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Protection category",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Protection category",
+    "translation": "保护"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Life Styles",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Life Styles",
+    "translation": "生活方式"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Money",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Money",
+    "translation": "钱财"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Employer Provided",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer Provided",
+    "translation": "雇主提供"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Money category",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Money category",
+    "translation": "钱财"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Health",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health",
+    "translation": "健康"
+  }
+]

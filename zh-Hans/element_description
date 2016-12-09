@@ -1,0 +1,911 @@
+﻿[
+  {
+    "comment": "49",
+    "context": "49",
+    "key": "Orthodontic care, like braces, that helps align teeth and correct bite problems.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Orthodontic care, like braces, that helps align teeth and correct bite problems.",
+    "translation": "牙齿校正护理，例如：牙套，帮助对齐牙齿并解决牙齿咬合问题。"
+  },
+  {
+    "comment": "66",
+    "context": "66",
+    "key": "The benefit you'll receive per day while you're admitted to a facility for substance abuse treatment.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The benefit you'll receive per day while you're admitted to a facility for substance abuse treatment.",
+    "translation": "您获许使用药物广泛应用治疗的设施，您每天收到的福利。"
+  },
+  {
+    "comment": "14",
+    "context": "14",
+    "key": "Coverage Maximum (Per Visit)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Per Visit)",
+    "translation": "保险最大值（每次探访）"
+  },
+  {
+    "comment": "44",
+    "context": "44",
+    "key": "The amount you may request if you receive a screening or preventive care test.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount you may request if you receive a screening or preventive care test.",
+    "translation": "如果您进行扫描或者预防性保健测试，您会要求的金额。"
+  },
+  {
+    "comment": "127",
+    "context": "127",
+    "key": "Percentage of employer match",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Percentage of employer match",
+    "translation": "雇主匹配百分比"
+  },
+  {
+    "comment": "43",
+    "context": "43",
+    "key": "The maximum amount you may receive if you're diagnosed with a covered illness.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum amount you may receive if you're diagnosed with a covered illness.",
+    "translation": "若您诊断出患有可保的一种疾病，您能获得的金额最大值。"
+  },
+  {
+    "comment": "77",
+    "context": "77",
+    "key": "The maximum amount the insurance company will pay for your costs in a year. You pay any charges that exceed the limit.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum amount the insurance company will pay for your costs in a year. You pay any charges that exceed the limit.",
+    "translation": "该值是保险公司一年为您支付的最大金额。超出的费用由您自行承担"
+  },
+  {
+    "comment": "28",
+    "context": "28",
+    "key": "What you'll pay for your tier 3 prescriptions. See benefit summary for tier details.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay for your tier 3 prescriptions. See benefit summary for tier details.",
+    "translation": "您的3级处方开销。具体细节详见福利摘要。"
+  },
+  {
+    "comment": "83",
+    "context": "83",
+    "key": "The frequency with which this plan will cover new boxes of contact lenses (up to a maximum allowance).",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The frequency with which this plan will cover new boxes of contact lenses (up to a maximum allowance).",
+    "translation": "该保险计划会用该频率新的隐形眼镜盒进行承保。（高达津贴最大值）"
+  },
+  {
+    "comment": "12",
+    "context": "12",
+    "key": "Room & Board (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Room & Board (Outpatient)",
+    "translation": "董事会 （门诊）"
+  },
+  {
+    "comment": "26",
+    "context": "26",
+    "key": "What you'll pay for your tier 1 prescriptions. See benefit summary for tier details.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay for your tier 1 prescriptions. See benefit summary for tier details.",
+    "translation": "您的1级处方开销。具体细节详见福利摘要。"
+  },
+  {
+    "comment": "18",
+    "context": "18",
+    "key": "What you'll pay if you're admitted to the hospital.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay if you're admitted to the hospital.",
+    "translation": "如果允许您去医院，您会买什么？"
+  },
+  {
+    "comment": "126",
+    "context": "126",
+    "key": "Employer match option yes or no",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Employer match option yes or no",
+    "translation": "雇主匹配选择是或否"
+  },
+  {
+    "comment": "38",
+    "context": "38",
+    "key": "Things included in your annual checkups, or routine tests for your age and gender. See benefit summary for full list.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Things included in your annual checkups, or routine tests for your age and gender. See benefit summary for full list.",
+    "translation": "包括您的年度检查，您所在年龄和性别的常规检查。具体细节详见福利摘要。"
+  },
+  {
+    "comment": "78",
+    "context": "78",
+    "key": "Your preventive check-up for your eye health and vision.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your preventive check-up for your eye health and vision.",
+    "translation": "您的眼睛健康和视力的预防性测试"
+  },
+  {
+    "comment": "16",
+    "context": "16",
+    "key": "Your cost for an ambulance ride.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for an ambulance ride.",
+    "translation": "每辆救护车您的花费"
+  },
+  {
+    "comment": "27",
+    "context": "27",
+    "key": "What you'll pay for your tier 2 prescriptions. See benefit summary for tier details.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay for your tier 2 prescriptions. See benefit summary for tier details.",
+    "translation": "您的2级处方开销。具体细节详见福利摘要。"
+  },
+  {
+    "comment": "70",
+    "context": "70",
+    "key": "Plans with inflation adjustment will adjust cost or coverage to account for changes in value of currency.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Plans with inflation adjustment will adjust cost or coverage to account for changes in value of currency.",
+    "translation": "带有膨胀调整的保险计划会调整费用和保险项目以应对货币价值的变化。"
+  },
+  {
+    "comment": "73",
+    "context": "73",
+    "key": "The maximum amount of coverage you can buy through this plan.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum amount of coverage you can buy through this plan.",
+    "translation": "通过该计划，您可以购买的保险项目的最大值"
+  },
+  {
+    "comment": "81",
+    "context": "81",
+    "key": "The amount of time you must wait after illness or injury for your benefit to begin after you submit your claim.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount of time you must wait after illness or injury for your benefit to begin after you submit your claim.",
+    "translation": "在得病或受伤之后，您递交理赔案之后，您等待福利开始需要的时间长短"
+  },
+  {
+    "comment": "91",
+    "context": "91",
+    "key": "A dedicated team of trained and certified resolution specialists who work on your behalf to restore your identity by addressing record-keeping and reporting agencies and removing erroneous and fraudulent records that appear in your name while under the protection of qualified identity monitoring service.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "A dedicated team of trained and certified resolution specialists who work on your behalf to restore your identity by addressing record-keeping and reporting agencies and removing erroneous and fraudulent records that appear in your name while under the protection of qualified identity monitoring service.",
+    "translation": "专门的训练有素的和认证的专家团队，以您的名义通过保持纪录和报告机构来恢复您的身份，并删除有您名字出现的错误和欺诈性的记录，在合格的身份监控服务的保护下。"
+  },
+  {
+    "comment": "121",
+    "context": "121",
+    "key": "Coinsurance (Hospital & Surgical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Hospital & Surgical)",
+    "translation": "共保（住院和手术）"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Maximum per Delivery (Maternity)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum per Delivery (Maternity)",
+    "translation": "每次分娩最大值（产妇）"
+  },
+  {
+    "comment": "59",
+    "context": "59",
+    "key": "Get a comprehensive consultation from a doctor, and request medications if necessary.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Get a comprehensive consultation from a doctor, and request medications if necessary.",
+    "translation": "得到医生全面咨询，有必要的话，需要药物治疗。"
+  },
+  {
+    "comment": "34",
+    "context": "34",
+    "key": "The benefit you'll receive per day while you're admitted to the hospital.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The benefit you'll receive per day while you're admitted to the hospital.",
+    "translation": "您被允许入院，您每日所获得的福利。"
+  },
+  {
+    "comment": "62",
+    "context": "62",
+    "key": "Additional services or benefits that are available as a member of this plan.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Additional services or benefits that are available as a member of this plan.",
+    "translation": "作为该计划的一员，您可用的额外服务和福利。"
+  },
+  {
+    "comment": "97",
+    "context": "97",
+    "key": "Coinsurance (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Inpatient + Outpatient)",
+    "translation": "共保（住院和门诊）"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Coinsurance (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Outpatient)",
+    "translation": "共保（门诊）"
+  },
+  {
+    "comment": "87",
+    "context": "87",
+    "key": "The amount of time you must wait for your benefit to begin.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount of time you must wait for your benefit to begin.",
+    "translation": "您的福利开始之前，您需要等待的时间长短。"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Coverage Maximum (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Outpatient)",
+    "translation": "保险最大值（门诊）"
+  },
+  {
+    "comment": "90",
+    "context": "90",
+    "key": "Scans underground websites and other illicit online sources which buy, trade and sell personal information including (but not limited to) credit card numbers, passwords, and Social Security Numbers.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Scans underground websites and other illicit online sources which buy, trade and sell personal information including (but not limited to) credit card numbers, passwords, and Social Security Numbers.",
+    "translation": "扫描地下网站和其他非法网站资源，用来购买，交易和卖个人信息包括（但不限于）信用卡号，密码和社交安全号码"
+  },
+  {
+    "comment": "68",
+    "context": "68",
+    "key": "The maximum amount of time this plan will pay you a benefit.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum amount of time this plan will pay you a benefit.",
+    "translation": "该计划为您提供福利的最长时间"
+  },
+  {
+    "comment": "80",
+    "context": "80",
+    "key": "The frequency with which this plan will cover new boxes of contact lenses (up to a maximum allowance).",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The frequency with which this plan will cover new boxes of contact lenses (up to a maximum allowance).",
+    "translation": "该保险计划会用该频率新的隐形眼镜盒进行承保。（高达津贴最大值）"
+  },
+  {
+    "comment": "30",
+    "context": "30",
+    "key": "Your cost for an appointment with a chiropractor.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for an appointment with a chiropractor.",
+    "translation": "您约见脊椎推拿师的花费"
+  },
+  {
+    "comment": "100",
+    "context": "100",
+    "key": "Coverage Amount",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount",
+    "translation": "保险金额"
+  },
+  {
+    "comment": "54",
+    "context": "54",
+    "key": "Some life insurance policies include an additional rider for AD&D (Accidental Death and Dismemberment), which provides additional coverage for qualifying injuries.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Some life insurance policies include an additional rider for AD&D (Accidental Death and Dismemberment), which provides additional coverage for qualifying injuries.",
+    "translation": "一些人寿保险保单包括针对意外死亡和伤残的附加条款，会承保一些符合要求的伤残。"
+  },
+  {
+    "comment": "79",
+    "context": "79",
+    "key": "The frequency with which this plan will cover a new set of frames and lenses (up to a maximum allowance).",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The frequency with which this plan will cover a new set of frames and lenses (up to a maximum allowance).",
+    "translation": "该保险计划会用该频率对一组新的框架和隐形眼镜进行承保。（高达津贴最大值）"
+  },
+  {
+    "comment": "98",
+    "context": "98",
+    "key": "Deductible (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible (Inpatient + Outpatient)",
+    "translation": "免赔额（住院和门诊）"
+  },
+  {
+    "comment": "32",
+    "context": "32",
+    "key": "The cost you pay to be covered by an insurance plan.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The cost you pay to be covered by an insurance plan.",
+    "translation": "您为保险计划支付的费用"
+  },
+  {
+    "comment": "72",
+    "context": "72",
+    "key": "The maximum amount of time this plan will pay you a benefit if you're temporarily disbaled and unable to work.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum amount of time this plan will pay you a benefit if you're temporarily disbaled and unable to work.",
+    "translation": "如果您暂时残疾并不能工作，该计划对您进行福利支付的最长时间。"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Deductible (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible (Inpatient)",
+    "translation": "免赔额（住院）"
+  },
+  {
+    "comment": "124",
+    "context": "124",
+    "key": "Coverage Maximum (Major Medical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Major Medical)",
+    "translation": "保险最大值（主要医疗）"
+  },
+  {
+    "comment": "123",
+    "context": "123",
+    "key": "Coinsurance (Major Medical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance (Major Medical)",
+    "translation": "共保（主要医疗）"
+  },
+  {
+    "comment": "95",
+    "context": "95",
+    "key": "Provides a secure digital vault where you can store the details of the critical items you carry in your wallet.  In the event that your wallet is ever lost or stolen, you will receive assistance in cancelling any documents and securing any new documents , that were stored in your lost wallet vault.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Provides a secure digital vault where you can store the details of the critical items you carry in your wallet.  In the event that your wallet is ever lost or stolen, you will receive assistance in cancelling any documents and securing any new documents , that were stored in your lost wallet vault.",
+    "translation": "提供一个安全的数字库，您可以在其中存储您钱包中关键项目的细节。在您的钱包丢失或被盗的事件中，您将获得援助以取消任何文件并确保存储在您丢失的钱包中任何新文件的安全。"
+  },
+  {
+    "comment": "76",
+    "context": "76",
+    "key": "This is the amount you pay toward your expenses before the insurance company begins to cover your costs.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "This is the amount you pay toward your expenses before the insurance company begins to cover your costs.",
+    "translation": "保险公司开始赔付您的花费之前，该金额是您支付花费的数目。"
+  },
+  {
+    "comment": "65",
+    "context": "65",
+    "key": "A private and easy-to-use home test kit gives you a picture of your most important lab values.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "A private and easy-to-use home test kit gives you a picture of your most important lab values.",
+    "translation": "私人的且简单的家庭检测试剂盒为您展示在实验室才能获得的最重要的价值。"
+  },
+  {
+    "comment": "69",
+    "context": "69",
+    "key": "The maximum daily benefit for home health care or nursing home services.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum daily benefit for home health care or nursing home services.",
+    "translation": "家庭健康护理和养老院服务的每日福利最大值"
+  },
+  {
+    "comment": "24",
+    "context": "24",
+    "key": "What you'll pay for a visit to a doctor other than your primary care provider.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay for a visit to a doctor other than your primary care provider.",
+    "translation": "您去看医生，而不是您的初级保健供应者，您的开销有哪些？"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Deductible (Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible (Outpatient)",
+    "translation": "免赔额（门诊）"
+  },
+  {
+    "comment": "57",
+    "context": "57",
+    "key": "Talk to a doctor about any common conditions or concerns",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Talk to a doctor about any common conditions or concerns",
+    "translation": "关于一些常见情况和顾虑咨询医生"
+  },
+  {
+    "comment": "42",
+    "context": "42",
+    "key": "Some accounts require you to use all the money you deposit each year, or you forfeit any remainder.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Some accounts require you to use all the money you deposit each year, or you forfeit any remainder.",
+    "translation": "有些帐户需要您使用您每年存入的所有钱，否则剩余部分就会丧失。"
+  },
+  {
+    "comment": "37",
+    "context": "37",
+    "key": "The amount your beneficiaries will receive in the case of your accidental death.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount your beneficiaries will receive in the case of your accidental death.",
+    "translation": "若您意外死亡，您的受益人能获得的金额。"
+  },
+  {
+    "comment": "71",
+    "context": "71",
+    "key": "The amount of time you must wait for your benefit to begin after you submit your claim.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount of time you must wait for your benefit to begin after you submit your claim.",
+    "translation": "您递交您的理赔案后，您等待福利开始的最长时间。"
+  },
+  {
+    "comment": "23",
+    "context": "23",
+    "key": "What you'll pay for a visit to your doctor's office.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay for a visit to your doctor's office.",
+    "translation": "若您要去看医生，您的开销有哪些？"
+  },
+  {
+    "comment": "33",
+    "context": "33",
+    "key": "This rating comes from users and is based on cost, coverage, value, and overall satisfaction.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "This rating comes from users and is based on cost, coverage, value, and overall satisfaction.",
+    "translation": "该评级来自于用户，基于费用，保险项目，价值和整体满意度。"
+  },
+  {
+    "comment": "45",
+    "context": "45",
+    "key": "The maximum amount the insurance company will pay for your costs in a year. You pay any charges that exceed the limit.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The maximum amount the insurance company will pay for your costs in a year. You pay any charges that exceed the limit.",
+    "translation": "保险公司每年为您的费用支付的最大金额。超出的费用由您自行承担。"
+  },
+  {
+    "comment": "40",
+    "context": "40",
+    "key": "Amount you're charged by the bank for account service and maintenance.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Amount you're charged by the bank for account service and maintenance.",
+    "translation": "银行收取的帐户服务和维护费用金额。"
+  },
+  {
+    "comment": "58",
+    "context": "58",
+    "key": "Securely email a doctor about any common conditions or concerns.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Securely email a doctor about any common conditions or concerns.",
+    "translation": "关于一些常见情况和顾虑安全地给医生发邮件咨询。"
+  },
+  {
+    "comment": "36",
+    "context": "36",
+    "key": "The amount you'll receive if an accidental injury leaves you temporarily disabled.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount you'll receive if an accidental injury leaves you temporarily disabled.",
+    "translation": "若意外事故让您暂时残疾， 您能获得的金额。"
+  },
+  {
+    "comment": "15",
+    "context": "15",
+    "key": "Coverage Amount (STD)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount (STD)",
+    "translation": "保险金额（性病）"
+  },
+  {
+    "comment": "39",
+    "context": "39",
+    "key": "Your plan may not cover doctors or facilities that don't participate in a certain network, or may only offer limited coverage.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your plan may not cover doctors or facilities that don't participate in a certain network, or may only offer limited coverage.",
+    "translation": "您的保险计划不包括探访特定网络外的医生或设备，或者仅提供限定保险。"
+  },
+  {
+    "comment": "86",
+    "context": "86",
+    "key": "The amount you'll receive if your child is diagnosed with cancer.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount you'll receive if your child is diagnosed with cancer.",
+    "translation": "如果被诊断为患有癌症，您的子女会收到的金额"
+  },
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Room & Board (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Room & Board (Inpatient)",
+    "translation": "董事会（住院）"
+  },
+  {
+    "comment": "17",
+    "context": "17",
+    "key": "What you'll pay if you visit an emergency room. See benefit summary for full details.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "What you'll pay if you visit an emergency room. See benefit summary for full details.",
+    "translation": "如果您去急诊室探访，您会买什么？具体细节详见福利摘要。"
+  },
+  {
+    "comment": "60",
+    "context": "60",
+    "key": "Get a comprehensive consultation from a doctor within an hour. Request medications if necessary.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Get a comprehensive consultation from a doctor within an hour. Request medications if necessary.",
+    "translation": "一小时内得到医生全面咨询，有必要的话，需要药物治疗。"
+  },
+  {
+    "comment": "53",
+    "context": "53",
+    "key": "You'll be covered as long as you pay the premium, up to the end of the term.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "You'll be covered as long as you pay the premium, up to the end of the term.",
+    "translation": "只要您支付保费，直到条款结束时，您都会被承保。"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Coverage Maximum (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Inpatient)",
+    "translation": "保险最大值（住院）"
+  },
+  {
+    "comment": "63",
+    "context": "63",
+    "key": "Complete a health risk assessment and receive a personal wellness program.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Complete a health risk assessment and receive a personal wellness program.",
+    "translation": "完成健康风险评估并受到私人健康计划。"
+  },
+  {
+    "comment": "20",
+    "context": "20",
+    "key": "Your cost for a complex diagnostic test.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for a complex diagnostic test.",
+    "translation": "您在复杂诊断性测试上的花费"
+  },
+  {
+    "comment": "125",
+    "context": "125",
+    "key": "Maximum contribution for the item",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum contribution for the item",
+    "translation": "每一个项目的最大贡献"
+  },
+  {
+    "comment": "21",
+    "context": "21",
+    "key": "Your cost for a common diagnostic test.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for a common diagnostic test.",
+    "translation": "您在普通诊断性测试上的花费"
+  },
+  {
+    "comment": "13",
+    "context": "13",
+    "key": "Coverage Maximum (Annual)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Annual)",
+    "translation": "保险最大值（年度）"
+  },
+  {
+    "comment": "61",
+    "context": "61",
+    "key": "When you establish a care relationship with a doctor through an appointment, you may be able to receive prescriptions over the phone.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "When you establish a care relationship with a doctor through an appointment, you may be able to receive prescriptions over the phone.",
+    "translation": "通过预约，您与医生建立了医护关系，您可能会通过电话获得处方。"
+  },
+  {
+    "comment": "41",
+    "context": "41",
+    "key": "You may pay directly from this account at the point of purchase or service.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "You may pay directly from this account at the point of purchase or service.",
+    "translation": "在购买和服务的时间节点上，您可以直接用该帐户付款。"
+  },
+  {
+    "comment": "93",
+    "context": "93",
+    "key": "Access to your credit reports and scores from the three primary credit reporting agencies; Equifax, Experian and TransUnion.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Access to your credit reports and scores from the three primary credit reporting agencies; Equifax, Experian and TransUnion.",
+    "translation": "访问您的信用报告，并获得来自三个主要信用报告机构的评分，例如：Equifax，Experian和TransUnion"
+  },
+  {
+    "comment": "74",
+    "context": "74",
+    "key": "The amount of time between your disability occurring and the benefit beginning.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount of time between your disability occurring and the benefit beginning.",
+    "translation": "在您发生残疾和福利开始之间的时间长短"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "Coinsurance Description (Inpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coinsurance Description (Inpatient)",
+    "translation": "共保（住院）"
+  },
+  {
+    "comment": "92",
+    "context": "92",
+    "key": "Monitors your credit and notifies you when a change such as new accounts, delinquent accounts, and other credit-related information is recorded.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Monitors your credit and notifies you when a change such as new accounts, delinquent accounts, and other credit-related information is recorded.",
+    "translation": "监控您的信用并在有变化的时候通知您，例如新账户， 拖欠账户和其他被记录的信用相关信息。"
+  },
+  {
+    "comment": "31",
+    "context": "31",
+    "key": "Your cost for an appointment with a mental health care provider.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for an appointment with a mental health care provider.",
+    "translation": "您约见心理健康师的花费"
+  },
+  {
+    "comment": "99",
+    "context": "99",
+    "key": "Room & Board (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Room & Board (Inpatient + Outpatient)",
+    "translation": "董事会（住院和门诊）"
+  },
+  {
+    "comment": "89",
+    "context": "89",
+    "key": "Additional scans of the National Change of Address (NCOA) database, which identifies new addresses associated with your personal information as well as Non-Credit Loan (e.g. \"Payday Loan\") databases which provide high-interest, quick cash transactions and generally require minimal personal information to obtain.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Additional scans of the National Change of Address (NCOA) database, which identifies new addresses associated with your personal information as well as Non-Credit Loan (e.g. \"Payday Loan\") databases which provide high-interest, quick cash transactions and generally require minimal personal information to obtain.",
+    "translation": "对NCOA数据库的额外扫描，识别和您的个人信息相关的新地址以及非信用贷款（例如：发薪日贷款）的数据库，会提供高利息，快速的现金交易，一般需求最少的个人信息获取。"
+  },
+  {
+    "comment": "94",
+    "context": "94",
+    "key": "Review a summary of the personal information tied to your identity, so that you can review the information to identify errors or irregularities that may be evidence of possible identity theft.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Review a summary of the personal information tied to your identity, so that you can review the information to identify errors or irregularities that may be evidence of possible identity theft.",
+    "translation": "与您的身份紧密相关的个人信息的摘要总结，以便您可以审查信息，以确定错误或违规行为，可能是作为身份盗窃的证据。"
+  },
+  {
+    "comment": "67",
+    "context": "67",
+    "key": "The benefit you'll receive per day while you're admitted to a facility for mental health treatment.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The benefit you'll receive per day while you're admitted to a facility for mental health treatment.",
+    "translation": "您获许使用心理健康治疗的设施，您每天收到的福利。"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "Coverage Amount (Dismemberment)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount (Dismemberment)",
+    "translation": "保险金额（肢解）"
+  },
+  {
+    "comment": "52",
+    "context": "52",
+    "key": "Dental care that includes preventive treatments, such as teeth cleaning.  Covered preventive services vary by plan.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental care that includes preventive treatments, such as teeth cleaning.  Covered preventive services vary by plan.",
+    "translation": "牙齿护理包括预防性治疗，例如：牙齿清洁。所承保的预防性服务因保险计划而异。"
+  },
+  {
+    "comment": "64",
+    "context": "64",
+    "key": "A registered nurse works with you to identify health problems and helps you implement your personal wellness program.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "A registered nurse works with you to identify health problems and helps you implement your personal wellness program.",
+    "translation": "已注册的护士和您一起确定健康问题并帮助您实施私人健康计划。"
+  },
+  {
+    "comment": "22",
+    "context": "22",
+    "key": "Your cost for a preventive checkup at your doctor's office.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for a preventive checkup at your doctor's office.",
+    "translation": "您在医生办公室进预防性检查的费用"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Coverage Amount (Death)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount (Death)",
+    "translation": "保险金额（死亡）"
+  },
+  {
+    "comment": "96",
+    "context": "96",
+    "key": "Coverage Maximum (Inpatient + Outpatient)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Inpatient + Outpatient)",
+    "translation": "保险最大值（住院和门诊）"
+  },
+  {
+    "comment": "35",
+    "context": "35",
+    "key": "The benefit you'll receive upon your admission to the hospital.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The benefit you'll receive upon your admission to the hospital.",
+    "translation": "您或许入院，所能获得的福利。"
+  },
+  {
+    "comment": "47",
+    "context": "47",
+    "key": "Dental care that includes common treatments, like fillings, sealants, and some crowns. Covered basic services vary by plan.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental care that includes common treatments, like fillings, sealants, and some crowns. Covered basic services vary by plan.",
+    "translation": "牙齿护理包括常见的治疗方法，例如填充物，密封剂和牙冠。所承保的基本服务因保险计划而异。"
+  },
+  {
+    "comment": "75",
+    "context": "75",
+    "key": "This rating is an at-a-glance description of a plan's network size. Always be sure to look up your doctors' network and plan participation details.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "This rating is an at-a-glance description of a plan's network size. Always be sure to look up your doctors' network and plan participation details.",
+    "translation": "该评级对计划网络规模进行了很清晰的描述。一定要切实查清楚您的医生网络和参与计划的细节。"
+  },
+  {
+    "comment": "82",
+    "context": "82",
+    "key": "The frequency with which this plan will cover a new set of frames and lenses (up to a maximum allowance).",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The frequency with which this plan will cover a new set of frames and lenses (up to a maximum allowance).",
+    "translation": "该保险计划会用该频率对一组新的框架和隐形眼镜进行承保。（高达津贴最大值）"
+  },
+  {
+    "comment": "48",
+    "context": "48",
+    "key": "Dental care that includes advanced treatments like implants and dentures. Covered major services vary by plan.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Dental care that includes advanced treatments like implants and dentures. Covered major services vary by plan.",
+    "translation": "牙齿护理包括如种植牙和假牙这样高级的治疗方法。所承保的主要服务因保险计划而异。"
+  },
+  {
+    "comment": "122",
+    "context": "122",
+    "key": "Coverage Maximum (Hospital & Surgical)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Hospital & Surgical)",
+    "translation": "保险最大值（住院和手术）"
+  },
+  {
+    "comment": "84",
+    "context": "84",
+    "key": "The amount you'll receive if diagnosed as having cancer.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount you'll receive if diagnosed as having cancer.",
+    "translation": "如果被诊断为患有癌症，您会收到的金额。"
+  },
+  {
+    "comment": "25",
+    "context": "25",
+    "key": "Your cost for an appointment with a physical therapist.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for an appointment with a physical therapist.",
+    "translation": "您约见物理治疗师的花费"
+  },
+  {
+    "comment": "88",
+    "context": "88",
+    "key": "Standard monthly scans of public records databases searching for new information associated with your Social Security Number.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Standard monthly scans of public records databases searching for new information associated with your Social Security Number.",
+    "translation": "公共记录数据库的标准扫描，寻找与您的社交安全号码相关的新信息。"
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Coverage Amount - Salary Continuation (LTD)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Amount - Salary Continuation (LTD)",
+    "translation": "保险金额-工资延续（有限公司）"
+  },
+  {
+    "comment": "85",
+    "context": "85",
+    "key": "The amount you'll receive if your spouse is diagnosed with cancer.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "The amount you'll receive if your spouse is diagnosed with cancer.",
+    "translation": "如果被诊断为患有癌症，您的配偶会收到的金额"
+  },
+  {
+    "comment": "19",
+    "context": "19",
+    "key": "Your cost for a hospital or office service that doesn't require you to stay overnight.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Your cost for a hospital or office service that doesn't require you to stay overnight.",
+    "translation": "您不需要再医院留夜，您在医院和办公服务上的花费。"
+  }
+]

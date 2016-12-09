@@ -1,0 +1,164 @@
+﻿[
+  {
+    "comment": "16 description",
+    "context": "16 description",
+    "key": "Consumer - Forgot Username",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Forgot Username",
+    "translation": "Consumer - Forgot Username"
+  },
+  {
+    "comment": "10 description",
+    "context": "10 description",
+    "key": "Consumer - Benefits Question",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Benefits Question",
+    "translation": "Consumer - Benefits Question"
+  },
+  {
+    "comment": "17 description",
+    "context": "17 description",
+    "key": "Consumer - Submit Dependent Verification",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Submit Dependent Verification",
+    "translation": "Consumer - Submit Dependent Verification"
+  },
+  {
+    "comment": "17",
+    "context": "17",
+    "key": "Submit Dependent Verification",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Submit Dependent Verification",
+    "translation": "Submit Dependent Verification"
+  },
+  {
+    "comment": "15 description",
+    "context": "15 description",
+    "key": "Consumer - Forgot Password",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Forgot Password",
+    "translation": "Consumer - Forgot Password"
+  },
+  {
+    "comment": "9 description",
+    "context": "9 description",
+    "key": "Consumer - Help Enolling",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Help Enolling",
+    "translation": "Consumer - Help Enolling"
+  },
+  {
+    "comment": "11 description",
+    "context": "11 description",
+    "key": "Consumer - Technical Problem",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Technical Problem",
+    "translation": "Consumer - Technical Problem"
+  },
+  {
+    "comment": "13 description",
+    "context": "13 description",
+    "key": "Consumer - Other Issue",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Other Issue",
+    "translation": "Consumer - Other Issue"
+  },
+  {
+    "comment": "15",
+    "context": "15",
+    "key": "Forgot Password",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Forgot Password",
+    "translation": "Forgot Password"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Benefits Question",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Benefits Question",
+    "translation": "Benefits Question"
+  },
+  {
+    "comment": "12",
+    "context": "12",
+    "key": "Life Event",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Life Event",
+    "translation": "Life Event"
+  },
+  {
+    "comment": "14",
+    "context": "14",
+    "key": "Photo Upload",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Photo Upload",
+    "translation": "Photo Upload"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Technical Problem",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Technical Problem",
+    "translation": "Technical Problem"
+  },
+  {
+    "comment": "13",
+    "context": "13",
+    "key": "Other",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Other",
+    "translation": "Other"
+  },
+  {
+    "comment": "16",
+    "context": "16",
+    "key": "Forgot Username",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Forgot Username",
+    "translation": "Forgot Username"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Help Enrolling",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Help Enrolling",
+    "translation": "Help Enrolling"
+  },
+  {
+    "comment": "14 description",
+    "context": "14 description",
+    "key": "Consumer - Photo Upload",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Photo Upload",
+    "translation": "Consumer - Photo Upload"
+  },
+  {
+    "comment": "12 description",
+    "context": "12 description",
+    "key": "Consumer - Life Event",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Consumer - Life Event",
+    "translation": "Consumer - Life Event"
+  }
+]

@@ -1,0 +1,20 @@
+﻿[
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "12 Hr Display",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "12 Hr Display",
+    "translation": "Pantalla de 12 horas"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "24 Hr Display",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "24 Hr Display",
+    "translation": "Pantalla de 24 horas"
+  }
+]

@@ -1,0 +1,200 @@
+﻿[
+  {
+    "comment": "4",
+    "context": "4",
+    "key": "Coverage Maximum (Expenses)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Expenses)",
+    "translation": "Máximo de cobertura (gastos)"
+  },
+  {
+    "comment": "2 Description",
+    "context": "2 Description",
+    "key": "Out-of-Pocket Maximum (Includes Deductible Spending)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-of-Pocket Maximum (Includes Deductible Spending)",
+    "translation": "Máximo de gastos a cargo del empleado (Incluye gasto por deducible)"
+  },
+  {
+    "comment": "7 Description",
+    "context": "7 Description",
+    "key": "Out-of-Pocket Maximum (Does Not Include Deductible Spending)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Out-of-Pocket Maximum (Does Not Include Deductible Spending)",
+    "translation": "Gasto máximo a cargo del empleado ( sin considerar deducible)"
+  },
+  {
+    "comment": "5",
+    "context": "5",
+    "key": "Coverage Allowance (Pre-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Pre-Deductible)",
+    "translation": "Nivel de cobertura ( antes de deducible)"
+  },
+  {
+    "comment": "11",
+    "context": "11",
+    "key": "Lifetime Maximum",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lifetime Maximum",
+    "translation": "Máximo de por vida"
+  },
+  {
+    "comment": "6",
+    "context": "6",
+    "key": "Coverage Allowance (Post-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Post-Deductible)",
+    "translation": "Nivel de cobertura ( después de deducible)"
+  },
+  {
+    "comment": "8 Description",
+    "context": "8 Description",
+    "key": "Covers the first dollar... and that's it.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Covers the first dollar... and that's it.",
+    "translation": "Cubre el primer peso ... y eso es todo."
+  },
+  {
+    "comment": "8",
+    "context": "8",
+    "key": "Coverage Allowance",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance",
+    "translation": ""
+  },
+  {
+    "comment": "10 Description",
+    "context": "10 Description",
+    "key": "Maximum Coverage in a particular calendar year.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Maximum Coverage in a particular calendar year.",
+    "translation": "Nivel máximo de la cobertura en un año calendario"
+  },
+  {
+    "comment": "1 Description",
+    "context": "1 Description",
+    "key": "Deductible",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible",
+    "translation": "Deducible"
+  },
+  {
+    "comment": "11 Description",
+    "context": "11 Description",
+    "key": "Lifetime maximum coverage provided by the product.",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Lifetime maximum coverage provided by the product.",
+    "translation": "La cobertura máxima que se podría otorgar de por vida"
+  },
+  {
+    "comment": "9",
+    "context": "9",
+    "key": "Health Reimbursement Arrangement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Health Reimbursement Arrangement",
+    "translation": "Acuerdo para reembolso de gastos médicos"
+  },
+  {
+    "comment": "4 Description",
+    "context": "4 Description",
+    "key": "Coverage Maximum (Based on Medical Service Expenses)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Based on Medical Service Expenses)",
+    "translation": "Máximo de cobertura (basado en gastos de servicio médico)"
+  },
+  {
+    "comment": "3 Description",
+    "context": "3 Description",
+    "key": "Coverage Maximum (Based on Quantity of Usage)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Based on Quantity of Usage)",
+    "translation": "Máximo de cobertura (basado en nivel de uso)"
+  },
+  {
+    "comment": "3",
+    "context": "3",
+    "key": "Coverage Maximum (Quantity)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Maximum (Quantity)",
+    "translation": "Máximo de cobertura (cantidad)"
+  },
+  {
+    "comment": "2",
+    "context": "2",
+    "key": "OOP Maximum (Deductible Applies)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "OOP Maximum (Deductible Applies)",
+    "translation": "Máximo de gastos a cargo del empleado (Incluye gasto por deducible)"
+  },
+  {
+    "comment": "1",
+    "context": "1",
+    "key": "Deductible",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Deductible",
+    "translation": "Deducible"
+  },
+  {
+    "comment": "6 Description",
+    "context": "6 Description",
+    "key": "Coverage Allowance (Post-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Post-Deductible)",
+    "translation": "Nivel de cobertura ( después de deducible)"
+  },
+  {
+    "comment": "9 Description",
+    "context": "9 Description",
+    "key": "First dollar coverage via a Health Reimbursement Arrangement",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "First dollar coverage via a Health Reimbursement Arrangement",
+    "translation": "Cobertura de primer peso a través de un acuerdo para rembolso de gastos médicos"
+  },
+  {
+    "comment": "7",
+    "context": "7",
+    "key": "OOP Maximum (Deductible Does Not Apply)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "OOP Maximum (Deductible Does Not Apply)",
+    "translation": "Gasto máximo a cargo del empleado ( sin considerar deducible)"
+  },
+  {
+    "comment": "5 Description",
+    "context": "5 Description",
+    "key": "Coverage Allowance (Pre-Deductible)",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Coverage Allowance (Pre-Deductible)",
+    "translation": "Nivel de cobertura ( antes de deducible)"
+  },
+  {
+    "comment": "10",
+    "context": "10",
+    "key": "Calendar Year Maximum",
+    "reviewed": false,
+    "pluralized": false,
+    "source_string": "Calendar Year Maximum",
+    "translation": "Máximo por año calendario"
+  }
+]
