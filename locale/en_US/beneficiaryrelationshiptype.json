@@ -1,0 +1,14 @@
+﻿{
+    "Name": "Description",
+    "Parent": "Parent",
+    "Child": "Child",
+    "Spouse": "Spouse",
+    "Grand Parent": "Grand Parent",
+    "Sibling": "Sibling",
+    "Other Individual": "Other",
+    "Domestic Partner": "Domestic Partner",
+    "Trust": "Trust",
+    "Estate": "Estate",
+    "Charity": "Charity",
+    "Other Organization": "Other Organization"
+}
